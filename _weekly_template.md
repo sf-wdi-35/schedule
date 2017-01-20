@@ -11,7 +11,7 @@
     <th>Friday</th>
   </tr>
   <tr>
-    <td><strong>9:00-10:30</strong></td>
+    <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 12 - Monday Morning 1 -->
       Drill
       (tbd)
@@ -34,7 +34,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>10:45-12:15</strong></td>
+    <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 12 - Monday Morning 2 -->
       Topic
       (tbd)
@@ -57,7 +57,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>1:15-2:45</strong></td>
+    <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 12 - Monday Afternoon 1 -->
       Topic
       (tbd)
@@ -80,7 +80,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>3:00-4:30</strong></td>
+    <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 12 - Monday Afternoon 2 -->
       Topic
       (tbd)
@@ -138,7 +138,7 @@
     <th>Friday</th>
   </tr>
   <tr>
-    <td><strong>9:00-10:30</strong></td>
+    <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 11 - Monday Morning 1 -->
       Drill
       (tbd)
@@ -161,7 +161,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>10:45-12:15</strong></td>
+    <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 11 - Monday Morning 2 -->
       Topic
       (tbd)
@@ -184,7 +184,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>1:15-2:45</strong></td>
+    <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 11 - Monday Afternoon 1 -->
       Topic
       (tbd)
@@ -207,7 +207,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>3:00-4:30</strong></td>
+    <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 11 - Monday Afternoon 2 -->
       Topic
       (tbd)
@@ -265,7 +265,7 @@
     <th>Friday</th>
   </tr>
   <tr>
-    <td><strong>9:00-10:30</strong></td>
+    <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 10 - Monday Morning 1 -->
       Drill
       (tbd)
@@ -288,7 +288,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>10:45-12:15</strong></td>
+    <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 10 - Monday Morning 2 -->
       Topic
       (tbd)
@@ -311,7 +311,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>1:15-2:45</strong></td>
+    <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 10 - Monday Afternoon 1 -->
       Topic
       (tbd)
@@ -334,7 +334,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>3:00-4:30</strong></td>
+    <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 10 - Monday Afternoon 2 -->
       Topic
       (tbd)
@@ -392,7 +392,7 @@
     <th>Friday</th>
   </tr>
   <tr>
-    <td><strong>9:00-10:30</strong></td>
+    <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 9 - Monday Morning 1 -->
       Drill
       (tbd)
@@ -415,7 +415,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>10:45-12:15</strong></td>
+    <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 9 - Monday Morning 2 -->
       Topic
       (tbd)
@@ -438,7 +438,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>1:15-2:45</strong></td>
+    <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 9 - Monday Afternoon 1 -->
       Topic
       (tbd)
@@ -461,7 +461,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>3:00-4:30</strong></td>
+    <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 9 - Monday Afternoon 2 -->
       Topic
       (tbd)
@@ -519,7 +519,7 @@
     <th>Friday</th>
   </tr>
   <tr>
-    <td><strong>9:00-10:30</strong></td>
+    <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 8 - Monday Morning 1 -->
       Drill
       (tbd)
@@ -542,7 +542,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>10:45-12:15</strong></td>
+    <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 8 - Monday Morning 2 -->
       Topic
       (tbd)
@@ -565,7 +565,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>1:15-2:45</strong></td>
+    <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 8 - Monday Afternoon 1 -->
       Topic
       (tbd)
@@ -588,7 +588,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>3:00-4:30</strong></td>
+    <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 8 - Monday Afternoon 2 -->
       Topic
       (tbd)
@@ -646,7 +646,7 @@
     <th>Friday</th>
   </tr>
   <tr>
-    <td><strong>9:00-10:30</strong></td>
+    <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 7 - Monday Morning 1 -->
       Drill
       (tbd)
@@ -669,7 +669,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>10:45-12:15</strong></td>
+    <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 7 - Monday Morning 2 -->
       Topic
       (tbd)
@@ -692,7 +692,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>1:15-2:45</strong></td>
+    <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 7 - Monday Afternoon 1 -->
       Topic
       (tbd)
@@ -715,7 +715,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>3:00-4:30</strong></td>
+    <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 7 - Monday Afternoon 2 -->
       Topic
       (tbd)
@@ -773,7 +773,7 @@
     <th>Friday</th>
   </tr>
   <tr>
-    <td><strong>9:00-10:30</strong></td>
+    <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 6 - Monday Morning 1 -->
       Drill
       (tbd)
@@ -796,7 +796,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>10:45-12:15</strong></td>
+    <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 6 - Monday Morning 2 -->
       Topic
       (tbd)
@@ -819,7 +819,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>1:15-2:45</strong></td>
+    <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 6 - Monday Afternoon 1 -->
       Topic
       (tbd)
@@ -842,7 +842,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>3:00-4:30</strong></td>
+    <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 6 - Monday Afternoon 2 -->
       Topic
       (tbd)
@@ -900,7 +900,7 @@
     <th>Friday</th>
   </tr>
   <tr>
-    <td><strong>9:00-10:30</strong></td>
+    <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 5 - Monday Morning 1 -->
       Drill
       (tbd)
@@ -923,7 +923,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>10:45-12:15</strong></td>
+    <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 5 - Monday Morning 2 -->
       Topic
       (tbd)
@@ -946,7 +946,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>1:15-2:45</strong></td>
+    <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 5 - Monday Afternoon 1 -->
       Topic
       (tbd)
@@ -969,7 +969,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>3:00-4:30</strong></td>
+    <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 5 - Monday Afternoon 2 -->
       Topic
       (tbd)
@@ -1027,7 +1027,7 @@
     <th>Friday</th>
   </tr>
   <tr>
-    <td><strong>9:00-10:30</strong></td>
+    <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 4 - Monday Morning 1 -->
       Drill
       (tbd)
@@ -1050,7 +1050,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>10:45-12:15</strong></td>
+    <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 4 - Monday Morning 2 -->
       Topic
       (tbd)
@@ -1073,7 +1073,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>1:15-2:45</strong></td>
+    <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 4 - Monday Afternoon 1 -->
       Topic
       (tbd)
@@ -1096,7 +1096,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>3:00-4:30</strong></td>
+    <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 4 - Monday Afternoon 2 -->
       Topic
       (tbd)
@@ -1154,7 +1154,7 @@
     <th>Friday</th>
   </tr>
   <tr>
-    <td><strong>9:00-10:30</strong></td>
+    <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 3 - Monday Morning 1 -->
       Drill
       (tbd)
@@ -1177,7 +1177,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>10:45-12:15</strong></td>
+    <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 3 - Monday Morning 2 -->
       Topic
       (tbd)
@@ -1200,7 +1200,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>1:15-2:45</strong></td>
+    <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 3 - Monday Afternoon 1 -->
       Topic
       (tbd)
@@ -1223,7 +1223,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>3:00-4:30</strong></td>
+    <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 3 - Monday Afternoon 2 -->
       Topic
       (tbd)
@@ -1281,7 +1281,7 @@
     <th>Friday</th>
   </tr>
   <tr>
-    <td><strong>9:00-10:30</strong></td>
+    <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 2 - Monday Morning 1 -->
       Drill
       (tbd)
@@ -1304,7 +1304,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>10:45-12:15</strong></td>
+    <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 2 - Monday Morning 2 -->
       Topic
       (tbd)
@@ -1327,7 +1327,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>1:15-2:45</strong></td>
+    <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 2 - Monday Afternoon 1 -->
       Topic
       (tbd)
@@ -1350,7 +1350,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>3:00-4:30</strong></td>
+    <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 2 - Monday Afternoon 2 -->
       Topic
       (tbd)
@@ -1408,7 +1408,7 @@
     <th>Friday</th>
   </tr>
   <tr>
-    <td><strong>9:00-10:30</strong></td>
+    <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 1 - Monday Morning 1 -->
       Drill
       (tbd)
@@ -1431,7 +1431,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>10:45-12:15</strong></td>
+    <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 1 - Monday Morning 2 -->
       Topic
       (tbd)
@@ -1454,7 +1454,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>1:15-2:45</strong></td>
+    <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 1 - Monday Afternoon 1 -->
       Topic
       (tbd)
@@ -1477,7 +1477,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>3:00-4:30</strong></td>
+    <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 1 - Monday Afternoon 2 -->
       Topic
       (tbd)
