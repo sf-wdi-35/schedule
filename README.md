@@ -101,3 +101,16 @@
     </td>
   </tr>
 </table>
+
+## Daily Schedule Overview
+
+Time | Monday, Tuesday, Thursday | Wednesday | Friday |
+---- | -------------- | --------- | -------- | -------
+9:00-10:20  | Lecture | Lecture | Review
+10:30-11:50  | Lab | Lab | Review
+12:00-12:30 | 1:1s / continue lab | 1:1s / continue lab  | Review
+12:30-1:30  | LUNCH | LUNCH | LUNCH
+1:30-2:50  | Lecture | Sherri's Perogative | Weekend Lab
+3:00-4:20  | Lab | Outcomes with Neda | Weekend Lab
+4:30-5:00 | 1:1s / continue lab | 1:1s | Weekend Lab
+Evening | Homework | Homework | Weekend Lab
