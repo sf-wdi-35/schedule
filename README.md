@@ -11,7 +11,7 @@
     <th>Friday</th>
   </tr>
   <tr>
-    <td><strong>Morning 1<br>9:00-10:30</strong></td>
+    <td><strong>Morning 1<br>9:00-10:20</strong></td>
     <td> <!-- Week 1 - Monday Drill -->
       Orientation
     </td>
@@ -29,7 +29,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>Morning 2<br>10:45-12:15</strong></td>
+    <td><strong>Morning 2<br>10:30-11:50</strong></td>
     <td> <!-- Week 1 - Monday Morning Module -->
       Icebreakers
     </td>
@@ -47,9 +47,9 @@
     </td>
   </tr>
   <tr>
-    <td><strong>Afternoon 1<br>1:15-2:45</strong></td>
+    <td><strong>Afternoon 1<br>1:30-2:50</strong></td>
     <td> <!-- Week 1 - Monday Afternoon Module -->
-      HTML/CSS review(MF)
+      <a href="https://github.com/SF-WDI-LABS/html-css-review" target="_blank">HTML/CSS review</a> (MF)
     </td>
     <td> <!-- Week 1 - Tuesday Afternoon Module -->
       Portfolio deployment & CSS (NA/MF)
@@ -65,7 +65,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>Afternoon 2<br>3:00-4:30</strong></td>
+    <td><strong>Afternoon 2<br>3:00-4:20</strong></td>
     <td> <!-- Week 1 - Monday Afternoon Module -->
       <a href="https://github.com/sf-wdi-35/personal-portfolio" target="_blank">Lab: Portfolio P1</a> (MF)
     </td>
