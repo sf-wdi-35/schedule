@@ -38,7 +38,7 @@
         Git Review</a> (MF)
     </td>
     <td> <!-- Week 1 - Wednesday Morning Module -->
-      JS Types (MF)
+      $electors and DOM Manipulation (NA)
     </td>
     <td> <!-- Week 1 - Thursday Morning Module -->
       Objects (MF)
@@ -53,10 +53,10 @@
       <a href="https://github.com/SF-WDI-LABS/html-css-review" target="_blank">HTML/CSS review</a> (MF)
     </td>
     <td> <!-- Week 1 - Tuesday Afternoon Module -->
-      Portfolio deployment & CSS (NA/MF)
+      <a href="https://github.com/sf-wdi-35/js-data-types" target="_blank">JS Data Types</a> (MF)
     </td>
     <td> <!-- Week 1 - Wednesday Afternoon Module -->
-      Developer Tools & debugging (NA)
+      Developer Tools & debugging (Sherri)
     </td>
     <td> <!-- Week 1 - Thursday Afternoon Module -->
       Lab: Mr. Fox (NA)
@@ -71,10 +71,10 @@
       <a href="https://github.com/sf-wdi-35/personal-portfolio" target="_blank">Lab: Portfolio P1</a> (MF)
     </td>
     <td> <!-- Week 1 - Tuesday Afternoon Module -->
-      Lab: Portfolio P2 (NA/MF)
+      CSS & Portfolio P2 (NA/MF)
     </td>
     <td> <!-- Week 1 - Wednesday Afternoon Module -->
-      $electors and DOM Manipulation (NA)
+      (tbd)
     </td>
     <td> <!-- Week 1 - Thursday Afternoon Module -->
       Template strings & Lab: Mr. Fox (NA)
