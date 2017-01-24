@@ -1,6 +1,6 @@
 # WDI-35 Schedule
 
-## Week 1
+## Week 1: The DOM
 <table>
   <tr>
     <th>Jan 23-27</th>
@@ -34,7 +34,8 @@
       Icebreakers
     </td>
     <td> <!-- Week 1 - Tuesday Morning Module -->
-      Git Review (MF)
+      <a href="https://github.com/sf-wdi-35/git-github" target="_blank">
+        Git Review</a> (MF)
     </td>
     <td> <!-- Week 1 - Wednesday Morning Module -->
       JS Types (MF)
