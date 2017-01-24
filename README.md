@@ -71,7 +71,7 @@
       <a href="https://github.com/sf-wdi-35/personal-portfolio" target="_blank">Lab: Portfolio P1</a> (MF)
     </td>
     <td> <!-- Week 1 - Tuesday Afternoon Module -->
-      CSS & Portfolio P2 (NA/MF)
+      <a href="https://github.com/SF-WDI-LABS/css-selectors-and-classes-lab">CSS Lab</a> & Portfolio P2 (NA/MF)
     </td>
     <td> <!-- Week 1 - Wednesday Afternoon Module -->
       (tbd)
