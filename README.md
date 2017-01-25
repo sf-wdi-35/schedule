@@ -74,7 +74,7 @@
       <a href="https://github.com/SF-WDI-LABS/css-selectors-and-classes-lab">CSS Lab</a> & Portfolio P2 (NA/MF)
     </td>
     <td> <!-- Week 1 - Wednesday Afternoon Module -->
-      (tbd)
+      Your choice! Finish portfolio CSS, finish <a href="https://github.com/SF-WDI-LABS/js-objects-training" target="_blank">JS Objects Training</a> from this morning, or start <a href="https://github.com/sf-wdi-35/problem-set-js-basics" target="_blank">JS Basics problem set</a>.
     </td>
     <td> <!-- Week 1 - Thursday Afternoon Module -->
       Template strings & Lab: Mr. Fox (NA)
@@ -93,7 +93,7 @@
         Control Flow training </a>
     </td>
     <td> <!-- Week 1 - Wednesday Homework -->
-      (tbd)
+      Finish portfolio CSS, finish <a href="https://github.com/SF-WDI-LABS/js-objects-training" target="_blank">JS Objects Training</a>, and finish AND SUBMIT <a href="https://github.com/sf-wdi-35/problem-set-js-basics" target="_blank">JS Basics problem set</a>.
     </td>
     <td> <!-- Week 1 - Thursday Homework -->
       Finish Mr. Fox lab
