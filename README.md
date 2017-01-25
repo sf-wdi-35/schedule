@@ -38,10 +38,10 @@
         Git Review</a> (MF)
     </td>
     <td> <!-- Week 1 - Wednesday Morning Module -->
-      $electors and DOM Manipulation (NA)
+      <a href="https://github.com/SF-WDI-LABS/js-objects" target="_blank">JS Objects</a> (MF)
     </td>
     <td> <!-- Week 1 - Thursday Morning Module -->
-      Objects (MF)
+      $electors and DOM Manipulation (NA)
     </td>
     <td> <!-- Week 1 - Friday Morning Module -->
       Bootstrap grid (NA)
@@ -89,7 +89,7 @@
       Continue Portfolio project
     </td>
     <td> <!-- Week 1 - Tuesday Homework -->
-      <a href="https://github.com/SF-WDI-LABS/js-control-flow-training" target="_blank">
+      Edit your portfolio's CSS, and the Sing! exercise from this <a href="https://github.com/SF-WDI-LABS/js-control-flow-training" target="_blank">
         Control Flow training </a>
     </td>
     <td> <!-- Week 1 - Wednesday Homework -->
