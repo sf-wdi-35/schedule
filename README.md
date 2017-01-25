@@ -16,13 +16,13 @@
       Orientation
     </td>
     <td> <!-- Week 1 - Tuesday Drill -->
-      Kyrel (NA)
+      Kyrel Basics (NA)
     </td>
     <td> <!-- Week 1 - Wednesday Drill -->
-      Kyrel (NA)
+      <a href="https://github.com/SF-WDI-LABS/kyrel">Kyrel</a> Loops (NA)
     </td>
     <td> <!-- Week 1 - Thursday Drill -->
-      Kyrel (NA)
+      <a href="https://github.com/SF-WDI-LABS/kyrel">Kyrel</a> Advanced (NA)
     </td>
     <td> <!-- Week 1 - Friday Review -->
       Kyrel/Review (NA)
