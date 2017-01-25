@@ -86,10 +86,11 @@
   <tr>
     <td><strong>Homework</strong></td>
     <td> <!-- Week 1 - Monday Homework -->
-      Contiue Portfolio project
+      Continue Portfolio project
     </td>
     <td> <!-- Week 1 - Tuesday Homework -->
-      Continue Portfolio project
+      <a href="https://github.com/SF-WDI-LABS/js-control-flow-training" target="_blank">
+        Control Flow training </a>
     </td>
     <td> <!-- Week 1 - Wednesday Homework -->
       (tbd)
