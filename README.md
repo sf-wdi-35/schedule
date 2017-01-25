@@ -56,7 +56,7 @@
       <a href="https://github.com/sf-wdi-35/js-data-types" target="_blank">JS Data Types</a> (MF)
     </td>
     <td> <!-- Week 1 - Wednesday Afternoon Module -->
-     <a href="https://github.com/sf-wdi-35/Introduction-to-DevTools.git"> Developer Tools & debugging (Sherri)</a>
+     <a href="https://github.com/sf-wdi-35/Introduction-to-DevTools.git"> Developer Tools & debugging</a>(Sherri)
     </td>
     <td> <!-- Week 1 - Thursday Afternoon Module -->
       Lab: Mr. Fox (NA)
