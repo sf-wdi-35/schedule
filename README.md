@@ -22,7 +22,7 @@
       <a href="https://github.com/SF-WDI-LABS/kyrel">Kyrel</a> Loops (NA)
     </td>
     <td> <!-- Week 1 - Thursday Drill -->
-      <a href="https://github.com/SF-WDI-LABS/kyrel">Kyrel</a> Advanced (NA)
+      <a href="https://github.com/SF-WDI-LABS/kyrel">Kyrel</a> Advanced (MF)
     </td>
     <td> <!-- Week 1 - Friday Review -->
       Kyrel/Review (NA)
