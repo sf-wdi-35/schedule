@@ -62,7 +62,7 @@
      <a href="https://github.com/sf-wdi-35/Introduction-to-DevTools.git"> Developer Tools & debugging</a>(Sherri)
     </td>
     <td> <!-- Week 1 - Thursday Afternoon Module -->
-      Lab: Mr. Fox (NA)
+      <a href="https://github.com/SF-WDI-LABS/json-to-html-with-mr-fox">Lab: Mr. Fox</a> (NA)
     </td>
     <td> <!-- Week 1 - Friday Afternoon / Weekend Lab -->
       Portfolio P3 (NA/MF)
