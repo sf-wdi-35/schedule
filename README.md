@@ -41,7 +41,10 @@
       <a href="https://github.com/SF-WDI-LABS/js-objects" target="_blank">JS Objects</a> (MF)
     </td>
     <td> <!-- Week 1 - Thursday Morning Module -->
-      $electors and DOM Manipulation (NA)
+      <a href="https://github.com/SF-WDI-LABS/intro-jquery-and-dom">Intro DOM Manipulation</a>
+      &
+      <a href="https://github.com/SF-WDI-LABS/jquery-playground-lab">Playground Lab</a> 
+      (NA)
     </td>
     <td> <!-- Week 1 - Friday Morning Module -->
       Bootstrap grid (NA)
