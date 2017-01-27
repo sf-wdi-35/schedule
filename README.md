@@ -149,7 +149,7 @@
       (NA)
     </td>
     <td> <!-- Week 1 - Friday Morning Module -->
-      Bootstrap grid (NA)
+      Review and Bootstrap grid (NA)
     </td>
   </tr>
   <tr>
@@ -167,7 +167,7 @@
       <a href="https://github.com/SF-WDI-LABS/json-to-html-with-mr-fox">Lab: Mr. Fox</a> (NA)
     </td>
     <td> <!-- Week 1 - Friday Afternoon / Weekend Lab -->
-      Portfolio P3 (NA/MF)
+      Review and Portfolio P3 (NA/MF)
     </td>
   </tr>
   <tr>
@@ -185,7 +185,7 @@
       Template strings & Lab: Mr. Fox (NA)
     </td>
     <td> <!-- Week 1 - Friday Afternoon / Weekend Lab -->
-      Feedback & Review Fair for Portfolio (NA/MF)
+      Portfolio P3
     </td>
   </tr>
   <tr>
