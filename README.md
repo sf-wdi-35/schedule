@@ -47,7 +47,7 @@
       (NA)
     </td>
     <td> <!-- Week 1 - Friday Morning Module -->
-      Review and Bootstrap grid (NA)
+      Review and Bootstrap grid <a href="https://github.com/SF-WDI-LABS/bootstrap_mockups">lab</a> (NA)
     </td>
   </tr>
   <tr>
