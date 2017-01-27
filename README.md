@@ -1,6 +1,6 @@
 # WDI-35 Schedule
 
-## Week 2  : Javascript
+## Week 2  : Javascript & Networks
 <table>
   <tr>
     <td>Jan 30 - Feb 3</td>
