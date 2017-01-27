@@ -204,7 +204,7 @@
       Finish Mr. Fox lab
     </td>
     <td> <!-- Week 1 - Friday -->
-      Portfolio P3 & Finish JS
+      Portfolio P3. Make sure to read the updated Friday directions on the <a href="https://github.com/sf-wdi-35/personal-portfolio" target="_blank">original repo</a>, and add links to the <a href="https://docs.google.com/spreadsheets/d/1eu4_B9iu1TBRsAgYUdpvb3Y949E8stqSo62SMnBPws8/edit#gid=0" target="_blank">submission Google doc</a>.
     </td>
   </tr>
 </table>
