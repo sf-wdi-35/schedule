@@ -13,7 +13,7 @@
   <tr>
     <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 2 - Monday Morning 1 -->
-      JS Functions (MF)
+      <a href="https://github.com/SF-WDI-LABS/js-functions">JS Functions</a> (MF)
     </td>
     <td> <!-- Week 2 - Tuesday Morning 1 -->
       HTML Forms (MF)
