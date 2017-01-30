@@ -49,7 +49,7 @@
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 2 - Monday Afternoon 1 -->
-      Iterators (NA)
+      <a href="https://github.com/SF-WDI-LABS/js-array-methods">Array Iterators</a> (NA)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon 1 -->
       GET & POST (NA)
@@ -67,7 +67,7 @@
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 2 - Monday Afternoon 2 -->
-      Iterators training (NA)
+      <a href="<a href="https://github.com/SF-WDI-LABS/laundry-lab">Lab</a> (NA)">Laundry Lab</a> (NA)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon 2 -->
       GET & POST training (NA)
@@ -85,7 +85,7 @@
   <tr>
     <td><strong>Homework</strong></td>
     <td> <!-- Week 2 - Monday Homework -->
-      Finish Iterators lab
+      <a href="https://github.com/SF-WDI-LABS/building-js-iterators-lab">Implementing Iterators</a>
     </td>
     <td> <!-- Week 2 - Tuesday Homework -->
       Finish GET & POST lab
