@@ -19,7 +19,7 @@
       HTML Forms (MF)
     </td>
     <td> <!-- Week 2 - Wednesday Morning 1 -->
-      DOM Events (MF)
+      Review (NA)
     </td>
     <td> <!-- Week 2 - Thursday Morning 1 -->
       Racing game (NA/MF)
@@ -37,7 +37,7 @@
       Lab: HTML Forms (MF)
     </td>
     <td> <!-- Week 2 - Wednesday Morning 2 -->
-      Lab: Mouse-a-sketch (MF)
+      Review (NA)
     </td>
     <td> <!-- Week 2 - Thursday Morning 2 -->
       Racing game
@@ -52,7 +52,7 @@
       <a href="https://github.com/SF-WDI-LABS/js-array-methods">Array Iterators</a> (NA)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon 1 -->
-      GET & POST (NA)
+      Events (NA)
     </td>
     <td> <!-- Week 2 - Wednesday Afternoon 1 -->
       Tic tac toe (Sherri)
@@ -70,7 +70,7 @@
       <a href="https://github.com/SF-WDI-LABS/laundry-lab">Lab</a> (NA)">Laundry Lab</a> (NA)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon 2 -->
-      GET & POST training (NA)
+      Events Lab (NA)
     </td>
     <td> <!-- Week 2 - Wednesday Afternoon 2 -->
       Outcomes
