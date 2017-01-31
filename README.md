@@ -16,7 +16,7 @@
       <a href="https://github.com/SF-WDI-LABS/js-functions">JS Functions</a> (MF)
     </td>
     <td> <!-- Week 2 - Tuesday Morning 1 -->
-      HTML Forms (MF)
+      <a href="https://github.com/SF-WDI-LABS/html-forms">HTML Forms</a> (MF)
     </td>
     <td> <!-- Week 2 - Wednesday Morning 1 -->
       Racing game (NA/MF)
@@ -34,7 +34,7 @@
       Scope & Functions training (MF)
     </td>
     <td> <!-- Week 2 - Tuesday Morning 2 -->
-      Lab: HTML Forms (MF)
+      <a href="https://github.com/SF-WDI-LABS/html-forms-lab">Lab: HTML Forms</a> (MF)
     </td>
     <td> <!-- Week 2 - Wednesday Morning 2 -->
       Racing game
