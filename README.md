@@ -19,13 +19,13 @@
       HTML Forms (MF)
     </td>
     <td> <!-- Week 2 - Wednesday Morning 1 -->
-      Review (NA)
-    </td>
-    <td> <!-- Week 2 - Thursday Morning 1 -->
       Racing game (NA/MF)
     </td>
-    <td> <!-- Week 2 - Friday Morning 1 -->
+    <td> <!-- Week 2 - Thursday Morning 1 -->
       AJAX (MF)
+    </td>
+    <td> <!-- Week 2 - Friday Morning 1 -->
+      Review (Team)
     </td>
   </tr>
   <tr>
@@ -37,13 +37,13 @@
       Lab: HTML Forms (MF)
     </td>
     <td> <!-- Week 2 - Wednesday Morning 2 -->
-      Review (NA)
-    </td>
-    <td> <!-- Week 2 - Thursday Morning 2 -->
       Racing game
     </td>
-    <td> <!-- Week 2 - Friday Morning 2 -->
+    <td> <!-- Week 2 - Thursday Morning 2 -->
       Giphy (MF)
+    </td>
+    <td> <!-- Week 2 - Friday Morning 2 -->
+      Review (Team)
     </td>
   </tr>
   <tr>
@@ -55,13 +55,13 @@
       Events (NA)
     </td>
     <td> <!-- Week 2 - Wednesday Afternoon 1 -->
-      Tic tac toe (Sherri)
+      Racing game (Sherri)
     </td>
     <td> <!-- Week 2 - Thursday Afternoon 1 -->
-      Racing game
+      GeoQuakes
     </td>
     <td> <!-- Week 2 - Friday Afternoon 1 / Weekend Lab -->
-      GeoQuakes
+      Weekend Lab
     </td>
   </tr>
   <tr>
@@ -76,10 +76,10 @@
       Outcomes
     </td>
     <td> <!-- Week 2 - Thursday Afternoon 2 -->
-      Racing game
+      GeoQuakes
     </td>
     <td> <!-- Week 2 - Friday Afternoon 2 / Weekend Lab -->
-      GeoQuakes
+      Weekend Lab
     </td>
   </tr>
   <tr>
@@ -88,16 +88,16 @@
       <a href="https://github.com/SF-WDI-LABS/building-js-iterators-lab">Implementing Iterators</a>
     </td>
     <td> <!-- Week 2 - Tuesday Homework -->
-      Finish GET & POST lab
+      Finish Events Lab
     </td>
     <td> <!-- Week 2 - Wednesday Homework -->
-      Finish AND SUBMIT Tic Tac Toe
-    </td>
-    <td> <!-- Week 2 - Thursday Homework -->
       Finish AND SUBMIT Racing game
     </td>
+    <td> <!-- Week 2 - Thursday Homework -->
+      AJAX Homework
+    </td>
     <td> <!-- Week 2 - Friday -->
-      GeoQuakes
+      Weekend Lab
     </td>
   </tr>
 </table>
