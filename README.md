@@ -67,7 +67,7 @@
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 2 - Monday Afternoon 2 -->
-      <a href="https://github.com/SF-WDI-LABS/laundry-lab">Lab</a> (NA)">Laundry Lab</a> (NA)
+      <a href="https://github.com/SF-WDI-LABS/laundry-lab">Laundry Lab</a> (NA)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon 2 -->
       Events Lab (NA)
