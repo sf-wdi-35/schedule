@@ -1,6 +1,6 @@
 # WDI-35 Schedule
 
-## Week 2  : Javascript & Networks
+## Week 2  : Functions, Callbacks, AJAX
 <table>
   <tr>
     <td>Jan 30 - Feb 3</td>
@@ -102,7 +102,7 @@
   </tr>
 </table>
 
-## Week 1: The DOM
+## Week 1: Looping the DOM
 <table>
   <tr>
     <th>Jan 23-27</th>
