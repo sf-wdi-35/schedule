@@ -34,7 +34,7 @@
       Scope & Functions training (MF)
     </td>
     <td> <!-- Week 2 - Tuesday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/html-forms-lab">Lab: HTML Forms</a> (MF)
+      <a href="https://github.com/SF-WDI-LABS/html-forms-lab">Lab: HTML Forms</a> (MF) & Sync vs Async Callbacks (NA)
     </td>
     <td> <!-- Week 2 - Wednesday Morning 2 -->
       Racing game
@@ -52,7 +52,8 @@
       <a href="https://github.com/SF-WDI-LABS/js-array-methods">Array Iterators</a> (NA)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon 1 -->
-      Events (NA)
+      <a href="https://github.com/SF-WDI-LABS/js-jquery-event-binding">Events</a>
+      (NA)
     </td>
     <td> <!-- Week 2 - Wednesday Afternoon 1 -->
       Racing game (Sherri)
@@ -70,7 +71,8 @@
       <a href="https://github.com/SF-WDI-LABS/laundry-lab">Laundry Lab</a> (NA)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon 2 -->
-      Events Lab (NA)
+      <a href="https://github.com/SF-WDI-LABS/jquery-events-lab">Events Lab</a>
+      (NA)
     </td>
     <td> <!-- Week 2 - Wednesday Afternoon 2 -->
       Outcomes
