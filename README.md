@@ -19,7 +19,7 @@
       <a href="https://github.com/SF-WDI-LABS/html-forms">HTML Forms</a> (MF)
     </td>
     <td> <!-- Week 2 - Wednesday Morning 1 -->
-      Racing game (NA/MF)
+      <a href="https://github.com/sf-wdi-35/project-00">Racing game</a> (NA/MF)
     </td>
     <td> <!-- Week 2 - Thursday Morning 1 -->
       AJAX (MF)
