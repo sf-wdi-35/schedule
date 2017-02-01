@@ -90,7 +90,7 @@
       <a href="https://github.com/SF-WDI-LABS/building-js-iterators-lab">Implementing Iterators</a>
     </td>
     <td> <!-- Week 2 - Tuesday Homework -->
-      Finish Events Lab
+      Finish Events Lab; build (but don't submit!)<a href="https://github.com/SF-WDI-LABS/tic-tac-toe">Tic Tac Toe</a>.
     </td>
     <td> <!-- Week 2 - Wednesday Homework -->
       Finish AND SUBMIT Racing game
