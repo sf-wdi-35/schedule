@@ -59,7 +59,7 @@
       Racing game (Sherri)
     </td>
     <td> <!-- Week 2 - Thursday Afternoon 1 -->
-      GeoQuakes
+      <a href="https://github.com/SF-WDI-LABS/geoquakes">GeoQuakes</a>
     </td>
     <td> <!-- Week 2 - Friday Afternoon 1 / Weekend Lab -->
       Weekend Lab
@@ -78,7 +78,7 @@
       Outcomes
     </td>
     <td> <!-- Week 2 - Thursday Afternoon 2 -->
-      GeoQuakes
+      <a href="https://github.com/SF-WDI-LABS/geoquakes">GeoQuakes</a>
     </td>
     <td> <!-- Week 2 - Friday Afternoon 2 / Weekend Lab -->
       Weekend Lab
