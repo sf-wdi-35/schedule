@@ -22,7 +22,7 @@
       <a href="https://github.com/sf-wdi-35/project-00">Racing game</a> (NA/MF)
     </td>
     <td> <!-- Week 2 - Thursday Morning 1 -->
-      AJAX (MF)
+      <a href="https://github.com/SF-WDI-LABS/intro-ajax">AJAX</a> (MF)
     </td>
     <td> <!-- Week 2 - Friday Morning 1 -->
       Review (Team)
@@ -40,7 +40,7 @@
       Racing game
     </td>
     <td> <!-- Week 2 - Thursday Morning 2 -->
-      Giphy (MF)
+      <a href="https://github.com/SF-WDI-LABS/giffaw">Giphy</a> (MF)
     </td>
     <td> <!-- Week 2 - Friday Morning 2 -->
       Review (Team)
