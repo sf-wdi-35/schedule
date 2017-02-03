@@ -43,7 +43,7 @@
       <a href="https://github.com/SF-WDI-LABS/giffaw">Giphy</a> (MF)
     </td>
     <td> <!-- Week 2 - Friday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/mouse-a-sketch">Mouse-A-Sketch</a>
+      <a href="https://github.com/SF-WDI-LABS/mouse-a-sketch">Mouse-A-Sketch</a> & <a href="https://github.com/SF-WDI-LABS/ajax-4x-epic-combo-challenge">Can I ride?</a>
       (Team)
     </td>
   </tr>
