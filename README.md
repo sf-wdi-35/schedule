@@ -43,7 +43,8 @@
       <a href="https://github.com/SF-WDI-LABS/giffaw">Giphy</a> (MF)
     </td>
     <td> <!-- Week 2 - Friday Morning 2 -->
-      Review (Team)
+      <a href="https://github.com/SF-WDI-LABS/mouse-a-sketch">Mouse-A-Sketch</a>
+      (Team)
     </td>
   </tr>
   <tr>
