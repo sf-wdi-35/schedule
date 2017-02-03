@@ -63,7 +63,7 @@
       <a href="https://github.com/SF-WDI-LABS/geoquakes">GeoQuakes</a>
     </td>
     <td> <!-- Week 2 - Friday Afternoon 1 / Weekend Lab -->
-      Weekend Lab
+      Array Review / <a href="https://github.com/SF-WDI-LABS/build-your-own-node-module">Intro Node</a>
     </td>
   </tr>
   <tr>
