@@ -100,7 +100,7 @@
       AJAX Homework
     </td>
     <td> <!-- Week 2 - Friday -->
-      Weekend Lab
+      <a href="https://github.com/SF-WDI-LABS/spotify-search-lab">Spotify Lab</z>
     </td>
   </tr>
 </table>
