@@ -12,7 +12,7 @@
   <tr>
     <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 3 - Monday Morning 1 -->
-      Spotify project code review (MF)
+      Spotify project <a href="https://github.com/SF-WDI-LABS/game-code-review">code review</a> (MF)
     </td>
     <td> <!-- Week 3 - Tuesday Morning 1 -->
       Express Routing (MF)
