@@ -31,7 +31,7 @@
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 3 - Monday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/js-oop-flower-power"OOP & Constructors</a> (MF)
+      <a href="https://github.com/SF-WDI-LABS/js-oop-flower-power">OOP & Constructors</a> (MF)
     </td>
     <td> <!-- Week 3 - Tuesday Morning 2 -->
       REST (MF)
