@@ -15,7 +15,7 @@
       Spotify project <a href="https://github.com/SF-WDI-LABS/game-code-review">code review</a> (MF)
     </td>
     <td> <!-- Week 3 - Tuesday Morning 1 -->
-      Express Routing (MF)
+      <a href="https://github.com/SF-WDI-LABS/js-intro-express">Express Routing</a> (MF)
     </td>
     <td> <!-- Week 3 - Wednesday Morning 1 -->
       Mongo (NA)
@@ -34,7 +34,7 @@
       <a href="https://github.com/SF-WDI-LABS/js-oop-flower-power">OOP & Constructors</a> (MF)
     </td>
     <td> <!-- Week 3 - Tuesday Morning 2 -->
-      REST (MF)
+      REST & <a href="https://github.com/SF-WDI-LABS/express-dynamic-routes">Dynamic Express Routing</a> (MF)
     </td>
     <td> <!-- Week 3 - Wednesday Morning 2 -->
       Mongo (NA)
