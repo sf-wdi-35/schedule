@@ -53,7 +53,7 @@
       <a href="https://github.com/SF-WDI-LABS/node-oo-racing-game">OO Game</a> (NA)
     </td>
     <td> <!-- Week 3 - Tuesday Afternoon 1 -->
-      ToDo API (NA)
+      HTTP Request/Response & RESTful Routes (NA)
     </td>
     <td> <!-- Week 3 - Wednesday Afternoon 1 -->
       Sherri's Prerogative
@@ -71,7 +71,7 @@
       Lab: <a href="https://github.com/SF-WDI-LABS/node-oo-racing-game">OO Game</a> (NA)
     </td>
     <td> <!-- Week 3 - Tuesday Afternoon 2 -->
-      Lab: ToDo API (NA)
+      Lab: <a href="https://github.com/SF-WDI-LABS/test-driven-todo-api">ToDo API</a> (NA)
     </td>
     <td> <!-- Week 3 - Wednesday Afternoon 2 -->
       Outcomes (Neda)
