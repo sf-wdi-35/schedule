@@ -21,7 +21,7 @@
       <a href="https://github.com/SF-WDI-LABS/mongoose">Intro Mongo/ose</a> (NA)
     </td>
     <td> <!-- Week 3 - Thursday Morning 1 -->
-      <a href="https://github.com/SF-WDI-LABS/mongoose">Intro Mongo/ose</a> (NA)
+      Relationship Advice (NA)
     </td>
     <td> <!-- Week 3 - Friday Morning 1 -->
       Review
@@ -37,7 +37,7 @@
       REST & <a href="https://github.com/SF-WDI-LABS/express-dynamic-routes">Dynamic Express Routing</a> (MF)
     </td>
     <td> <!-- Week 3 - Wednesday Morning 2 -->
-      Mongo (NA)
+      <a href="https://github.com/SF-WDI-LABS/mongoose">Intro Mongo/ose</a> (NA)
     </td>
     <td> <!-- Week 3 - Thursday Morning 2 -->
       Mongo Relationships (NA)
