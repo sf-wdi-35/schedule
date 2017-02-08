@@ -56,7 +56,7 @@
       HTTP Request/Response & RESTful Routes (NA)
     </td>
     <td> <!-- Week 3 - Wednesday Afternoon 1 -->
-      Sherri's Prerogative
+      Sherri's Prerogative / <a href="https://github.com/SF-WDI-LABS/mongoose#todo-app-integration">ToDo + DB</a>
     </td>
     <td> <!-- Week 3 - Thursday Afternoon 1 -->
       Book App
