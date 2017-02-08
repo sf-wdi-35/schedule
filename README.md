@@ -18,10 +18,10 @@
       <a href="https://github.com/SF-WDI-LABS/js-intro-express">Express Routing</a> (MF)
     </td>
     <td> <!-- Week 3 - Wednesday Morning 1 -->
-      Mongo (NA)
+      <a href="https://github.com/SF-WDI-LABS/mongoose">Intro Mongo/ose</a> (NA)
     </td>
     <td> <!-- Week 3 - Thursday Morning 1 -->
-      More Mongo (NA)
+      <a href="https://github.com/SF-WDI-LABS/mongoose">Intro Mongo/ose</a> (NA)
     </td>
     <td> <!-- Week 3 - Friday Morning 1 -->
       Review
