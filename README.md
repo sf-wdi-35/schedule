@@ -59,7 +59,7 @@
       Sherri's Prerogative
     </td>
     <td> <!-- Week 3 - Thursday Afternoon 1 -->
-      Book App P1
+      <a href="https://github.com/SF-WDI-LABS/mongoose-books-app">Book App P1</a> (MF)
     </td>
     <td> <!-- Week 3 - Friday Afternoon 1 / Weekend Lab -->
       Personal API
@@ -77,7 +77,7 @@
       Outcomes (Neda)
     </td>
     <td> <!-- Week 3 - Thursday Afternoon 2 -->
-      <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Relationship Advice</a> (MF/NA)
+      <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Relationship Advice</a> and start book app P2(MF/NA)
     </td>
     <td> <!-- Week 3 - Friday Afternoon 2 / Weekend Lab -->
       Personal API
