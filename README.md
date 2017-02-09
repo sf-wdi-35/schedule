@@ -21,7 +21,7 @@
       <a href="https://github.com/SF-WDI-LABS/mongoose">Intro Mongo/ose</a> (NA)
     </td>
     <td> <!-- Week 3 - Thursday Morning 1 -->
-      <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Relationship Advice</a> (NA)
+      <a href="https://github.com/sf-wdi-35/express-bicycle-live-code-demo-app">Review / Bicycle Demo App</a> (NA)
     </td>
     <td> <!-- Week 3 - Friday Morning 1 -->
       Review
@@ -40,10 +40,10 @@
       <a href="https://github.com/SF-WDI-LABS/mongoose">Intro Mongo/ose</a> (NA)
     </td>
     <td> <!-- Week 3 - Thursday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongo Relationships</a> (NA)
+      <a href="https://github.com/sf-wdi-35/express-bicycle-live-code-demo-app">Bicycle Demo App</a> (NA)
     </td>
     <td> <!-- Week 3 - Friday Morning 2 -->
-      Review
+      Book App P3
       (team)
     </td>
   </tr>
@@ -59,7 +59,7 @@
       Sherri's Prerogative
     </td>
     <td> <!-- Week 3 - Thursday Afternoon 1 -->
-      Book App
+      Book App P1
     </td>
     <td> <!-- Week 3 - Friday Afternoon 1 / Weekend Lab -->
       Personal API
@@ -77,7 +77,7 @@
       Outcomes (Neda)
     </td>
     <td> <!-- Week 3 - Thursday Afternoon 2 -->
-      Lab: Book app
+      <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Relationship Advice</a> (MF/NA)
     </td>
     <td> <!-- Week 3 - Friday Afternoon 2 / Weekend Lab -->
       Personal API
@@ -95,7 +95,7 @@
       <a href="https://github.com/SF-WDI-LABS/mongoose#todo-app-integration">ToDo + DB</a>
     </td>
     <td> <!-- Week 3 - Thursday Homework -->
-      Finish book app
+      Finish book app P2
     </td>
     <td> <!-- Week 3 - Friday -->
       Finish AND SUBMIT Personal API
