@@ -21,7 +21,7 @@
       <a href="https://github.com/SF-WDI-LABS/mongoose">Intro Mongo/ose</a> (NA)
     </td>
     <td> <!-- Week 3 - Thursday Morning 1 -->
-      Relationship Advice (NA)
+      <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Relationship Advice</a> (NA)
     </td>
     <td> <!-- Week 3 - Friday Morning 1 -->
       Review
@@ -40,7 +40,7 @@
       <a href="https://github.com/SF-WDI-LABS/mongoose">Intro Mongo/ose</a> (NA)
     </td>
     <td> <!-- Week 3 - Thursday Morning 2 -->
-      Mongo Relationships (NA)
+      <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongo Relationships</a> (NA)
     </td>
     <td> <!-- Week 3 - Friday Morning 2 -->
       Review
