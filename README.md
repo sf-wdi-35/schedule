@@ -62,7 +62,7 @@
       <a href="https://github.com/SF-WDI-LABS/mongoose-books-app">Book App P1</a> (MF)
     </td>
     <td> <!-- Week 3 - Friday Afternoon 1 / Weekend Lab -->
-      Personal API
+    <a href="https://github.com/sf-wdi-35/express-personal-api">Personal API </a>
     </td>
   </tr>
   <tr>
@@ -80,7 +80,7 @@
       <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Relationship Advice</a> and start book app P2(MF/NA)
     </td>
     <td> <!-- Week 3 - Friday Afternoon 2 / Weekend Lab -->
-      Personal API
+    <a href="https://github.com/sf-wdi-35/express-personal-api"> Personal API</a>
     </td>
   </tr>
   <tr>
