@@ -43,7 +43,7 @@
       <a href="https://github.com/sf-wdi-35/express-bicycle-live-code-demo-app">Bicycle Demo App</a> (NA)
     </td>
     <td> <!-- Week 3 - Friday Morning 2 -->
-      Book App P3
+      <a href="https://github.com/SF-WDI-LABS/mongoose-books-app">Book App P3</a> (MF)
       (team)
     </td>
   </tr>
