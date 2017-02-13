@@ -32,7 +32,7 @@
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 4 - Monday Morning 2 -->
-      Debugging & Intro <a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a> (NA)
+      Debugging Tips & Intro <a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a> (NA)
     </td>
     <td> <!-- Week 4 - Tuesday Morning 2 -->
        <a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a>
