@@ -1,4 +1,108 @@
 # WDI-35 Schedule
+
+
+## Week 4: Full Stack Apps On Repeat
+<table>
+  <tr>
+    <td>Feb 13-17</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 4 - Monday Morning 1 -->
+      Code Review (MF)
+    </td>
+    <td> <!-- Week 4 - Tuesday Morning 1 -->
+       <a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a>
+    </td>
+    <td> <!-- Week 4 - Wednesday Morning 1 -->
+      P1 Approvals
+    </td>
+    <td> <!-- Week 4 - Thursday Morning 1 -->
+      Algorithms
+    </td>
+    <td> <!-- Week 4 - Friday Morning 1 -->
+      Algorithms
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 4 - Monday Morning 2 -->
+      Debugging & Intro <a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a> (NA)
+    </td>
+    <td> <!-- Week 4 - Tuesday Morning 2 -->
+       <a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a>
+    </td>
+    <td> <!-- Week 4 - Wednesday Morning 2 -->
+      P1 Approvals
+    </td>
+    <td> <!-- Week 4 - Thursday Morning 2 -->
+      P1
+    </td>
+    <td> <!-- Week 4 - Friday Morning 2 -->
+      P1
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 4 - Monday Afternoon 1 -->
+       <a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a> & Feedback
+    </td>
+    <td> <!-- Week 4 - Tuesday Afternoon 1 -->
+       <a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a>
+    </td>
+    <td> <!-- Week 4 - Wednesday Afternoon 1 -->
+      Sherri's Prerogative/Git Collaboration
+    </td>
+    <td> <!-- Week 4 - Thursday Afternoon 1 -->
+      P1
+    </td>
+    <td> <!-- Week 4 - Friday Afternoon 1 / Weekend Lab -->
+      P1
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 4 - Monday Afternoon 2 -->
+       <a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a> & Feedback
+    </td>
+    <td> <!-- Week 4 - Tuesday Afternoon 2 -->
+      Finish  <a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a> & Intro to P1
+    </td>
+    <td> <!-- Week 4 - Wednesday Afternoon 2 -->
+      Outcomes (Neda)
+    </td>
+    <td> <!-- Week 4 - Thursday Afternoon 2 -->
+      P1
+    </td>
+    <td> <!-- Week 4 - Friday Afternoon 2 / Weekend Lab -->
+      P1
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HW</strong></td>
+    <td> <!-- Week 4 - Monday Homework -->
+      Continue current Tunely goals. (Don't work too far forward; we will keep working on Tunely most of tomorrow.)
+    </td>
+    <td> <!-- Week 4 - Tuesday Homework -->
+      Finish Tunely (if not finished); P1 Planning
+    </td>
+    <td> <!-- Week 4 - Wednesday Homework -->
+      P1
+    </td>
+    <td> <!-- Week 4 - Thursday Homework -->
+      P1
+    </td>
+    <td> <!-- Week 4 - Friday -->
+      P1
+    </td>
+  </tr>
+</table>
+
 ## Week 3: Building Backends
 <table>
   <tr>
