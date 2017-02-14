@@ -17,7 +17,7 @@
       Code Review (MF)
     </td>
     <td> <!-- Week 4 - Tuesday Morning 1 -->
-       <a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a>
+       <a href="https://github.com/SF-WDI-LABS/tunely">Tunely 2 or 3</a>
     </td>
     <td> <!-- Week 4 - Wednesday Morning 1 -->
       P1 Approvals
@@ -32,7 +32,7 @@
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 4 - Monday Morning 2 -->
-      Debugging Tips & Intro <a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a> (NA)
+      Debugging Tips & Intro <a href="https://github.com/SF-WDI-LABS/tunely">Tunely 0</a> (NA)
     </td>
     <td> <!-- Week 4 - Tuesday Morning 2 -->
        <a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a>
@@ -50,10 +50,10 @@
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 4 - Monday Afternoon 1 -->
-       <a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a> & Feedback
+       <a href="https://github.com/SF-WDI-LABS/tunely">Tunely 1&2</a> & Feedback
     </td>
     <td> <!-- Week 4 - Tuesday Afternoon 1 -->
-       <a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a>
+       <a href="https://github.com/SF-WDI-LABS/tunely">Tunely 4+</a>
     </td>
     <td> <!-- Week 4 - Wednesday Afternoon 1 -->
       Sherri's Prerogative/Git Collaboration
@@ -68,7 +68,7 @@
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 4 - Monday Afternoon 2 -->
-       <a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a> & Feedback
+       <a href="https://github.com/SF-WDI-LABS/tunely">Tunely 4+</a> & Feedback
     </td>
     <td> <!-- Week 4 - Tuesday Afternoon 2 -->
       Finish  <a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a> & Intro to P1
@@ -86,7 +86,7 @@
   <tr>
     <td><strong>HW</strong></td>
     <td> <!-- Week 4 - Monday Homework -->
-      Continue current Tunely goals. (Don't work too far forward; we will keep working on Tunely most of tomorrow.)
+      Keep on building Tunely (we'll all start at the same sprint tomorrow)
     </td>
     <td> <!-- Week 4 - Tuesday Homework -->
       Finish Tunely (if not finished); P1 Planning
