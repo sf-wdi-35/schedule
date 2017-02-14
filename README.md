@@ -17,7 +17,7 @@
       Code Review (MF)
     </td>
     <td> <!-- Week 4 - Tuesday Morning 1 -->
-       <a href="https://github.com/SF-WDI-LABS/tunely">Tunely 2 or 3</a>
+       <a href="https://github.com/SF-WDI-LABS/tunely">Tunely 2+</a>
     </td>
     <td> <!-- Week 4 - Wednesday Morning 1 -->
       P1 Approvals
@@ -35,7 +35,7 @@
       Debugging Tips & Intro <a href="https://github.com/SF-WDI-LABS/tunely">Tunely 0</a> (NA)
     </td>
     <td> <!-- Week 4 - Tuesday Morning 2 -->
-       <a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a>
+       <a href="https://github.com/SF-WDI-LABS/tunely">Tunely 3+</a>
     </td>
     <td> <!-- Week 4 - Wednesday Morning 2 -->
       P1 Approvals
@@ -68,10 +68,10 @@
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 4 - Monday Afternoon 2 -->
-       <a href="https://github.com/SF-WDI-LABS/tunely">Tunely 4+</a> & Feedback
+       <a href="https://github.com/SF-WDI-LABS/tunely">Tunely 2+</a> & Feedback
     </td>
     <td> <!-- Week 4 - Tuesday Afternoon 2 -->
-      Finish  <a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a> & Intro to P1
+      Finish  <a href="https://github.com/SF-WDI-LABS/tunely">Tunely 4+</a> & Intro to P1
     </td>
     <td> <!-- Week 4 - Wednesday Afternoon 2 -->
       Outcomes (Neda)
