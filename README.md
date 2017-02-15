@@ -71,16 +71,16 @@
        <a href="https://github.com/SF-WDI-LABS/tunely">Tunely 2+</a> & Feedback
     </td>
     <td> <!-- Week 4 - Tuesday Afternoon 2 -->
-      Finish  <a href="https://github.com/SF-WDI-LABS/tunely">Tunely 4+</a> & Intro to P1
+      Finish  <a href="https://github.com/SF-WDI-LABS/tunely">Tunely 4+</a> & Intro to <a href="https://github.com/sf-wdi-35/project-01">P1</a>
     </td>
     <td> <!-- Week 4 - Wednesday Afternoon 2 -->
       Outcomes (Neda)
     </td>
     <td> <!-- Week 4 - Thursday Afternoon 2 -->
-      P1
+      <a href="https://github.com/sf-wdi-35/project-01">P1</a>
     </td>
     <td> <!-- Week 4 - Friday Afternoon 2 / Weekend Lab -->
-      P1
+      <a href="https://github.com/sf-wdi-35/project-01">P1</a>
     </td>
   </tr>
   <tr>
@@ -92,13 +92,13 @@
       Finish Tunely (if not finished); P1 Planning
     </td>
     <td> <!-- Week 4 - Wednesday Homework -->
-      P1
+      <a href="https://github.com/sf-wdi-35/project-01">P1</a>
     </td>
     <td> <!-- Week 4 - Thursday Homework -->
-      P1
+      <a href="https://github.com/sf-wdi-35/project-01">P1</a>
     </td>
     <td> <!-- Week 4 - Friday -->
-      P1
+      <a href="https://github.com/sf-wdi-35/project-01">P1</a>
     </td>
   </tr>
 </table>
