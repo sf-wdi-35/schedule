@@ -56,7 +56,7 @@
        <a href="https://github.com/SF-WDI-LABS/tunely">Tunely 4+</a>
     </td>
     <td> <!-- Week 4 - Wednesday Afternoon 1 -->
-      Sherri's Prerogative/Git Collaboration
+      <a href="https://github.com/sf-wdi-35/github-collaboration"> Sherri's Prerogative/Git Collaboration <a/>
     </td>
     <td> <!-- Week 4 - Thursday Afternoon 1 -->
       P1
