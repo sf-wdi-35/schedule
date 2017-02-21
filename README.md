@@ -1,5 +1,107 @@
 # WDI-35 Schedule
 
+## Week 5: Angular
+<table>
+  <tr>
+    <td>Feb 20 - 24</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 5 - Monday Morning 1 -->
+      Holiday/P1
+    </td>
+    <td> <!-- Week 5 - Tuesday Morning 1 -->
+      Finish P1
+    </td>
+    <td> <!-- Week 5 - Wednesday Morning 1 -->
+      Angular Intro (MF)
+    </td>
+    <td> <!-- Week 5 - Thursday Morning 1 -->
+      $http CR (NA)
+    </td>
+    <td> <!-- Week 5 - Friday Morning 1 -->
+      Review
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 5 - Monday Morning 2 -->
+      Holiday/P1
+    </td>
+    <td> <!-- Week 5 - Tuesday Morning 2 -->
+      Finish P1/Presentations
+    </td>
+    <td> <!-- Week 5 - Wednesday Morning 2 -->
+      Angular Expressions & Built-In Directives (MF)
+    </td>
+    <td> <!-- Week 5 - Thursday Morning 2 -->
+      $http CR (NA)
+    </td>
+    <td> <!-- Week 5 - Friday Morning 2 -->
+      Client-side Routing (NA)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 5 - Monday Afternoon 1 -->
+      Holiday/P1
+    </td>
+    <td> <!-- Week 5 - Tuesday Afternoon 1 -->
+      P1 Presentations
+    </td>
+    <td> <!-- Week 5 - Wednesday Afternoon 1 -->
+      Sherri's Prerogative (Hangman?)
+    </td>
+    <td> <!-- Week 5 - Thursday Afternoon 1 -->
+      $http UD (MF)
+    </td>
+    <td> <!-- Week 5 - Friday Afternoon 1 / Weekend Lab -->
+      Tunely 4+5 (Team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 5 - Monday Afternoon 2 -->
+      Holiday/P1
+    </td>
+    <td> <!-- Week 5 - Tuesday Afternoon 2 -->
+      P1 Presentations/Intro Angular (MF)
+    </td>
+    <td> <!-- Week 5 - Wednesday Afternoon 2 -->
+      Outcomes (Neda)
+    </td>
+    <td> <!-- Week 5 - Thursday Afternoon 2 -->
+      $http UD (MF)
+    </td>
+    <td> <!-- Week 5 - Friday Afternoon 2 / Weekend Lab -->
+      Tunely 4+5, and intro Angular Book App
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HW</strong></td>
+    <td> <!-- Week 5 - Monday Homework -->
+      P1
+    </td>
+    <td> <!-- Week 5 - Tuesday Homework -->
+      Chill? Fix that last project bug? Angular intro exercises?
+    </td>
+    <td> <!-- Week 5 - Wednesday Homework -->
+      Hangman
+    </td>
+    <td> <!-- Week 5 - Thursday Homework -->
+      Finish Tunely 2+3
+    </td>
+    <td> <!-- Week 5 - Friday -->
+      Books App
+    </td>
+  </tr>
+</table>
 
 ## Week 4: Full Stack Apps On Repeat
 <table>
