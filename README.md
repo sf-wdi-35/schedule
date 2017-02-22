@@ -56,7 +56,7 @@
       P1 Presentations
     </td>
     <td> <!-- Week 5 - Wednesday Afternoon 1 -->
-      Sherri's Prerogative (Hangman?)
+    Sherri's Prerogative <a href="https://github.com/sf-wdi-35/ng-hangman">(Hangman lab)</a>
     </td>
     <td> <!-- Week 5 - Thursday Afternoon 1 -->
       $http UD (MF)
