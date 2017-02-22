@@ -19,7 +19,7 @@
       Finish P1
     </td>
     <td> <!-- Week 5 - Wednesday Morning 1 -->
-      Angular Intro (MF)
+      <a href="https://github.com/SF-WDI-LABS/intro_angular_challenges">Angular Intro</a> (MF)
     </td>
     <td> <!-- Week 5 - Thursday Morning 1 -->
       $http CR (NA)
@@ -38,7 +38,7 @@
       Finish P1/Presentations
     </td>
     <td> <!-- Week 5 - Wednesday Morning 2 -->
-      Angular Expressions & Built-In Directives (MF)
+      <a href="https://github.com/SF-WDI-LABS/angular_directives_lab">Angular Expressions & Built-In Directives</a> (MF)
     </td>
     <td> <!-- Week 5 - Thursday Morning 2 -->
       $http CR (NA)
