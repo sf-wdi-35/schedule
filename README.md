@@ -42,7 +42,7 @@
       <a href="https://github.com/SF-WDI-LABS/angular_directives_lab">Angular Expressions & Built-In Directives</a> (MF)
     </td>
     <td> <!-- Week 5 - Thursday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/ng-read-create">$http CR</a>
+      <a href="https://github.com/SF-WDI-LABS/tunely-angular">Tunely 1+2</a>
       (NA)
     </td>
     <td> <!-- Week 5 - Friday Morning 2 -->
