@@ -22,7 +22,8 @@
       <a href="https://github.com/SF-WDI-LABS/intro_angular_challenges">Angular Intro</a> (MF)
     </td>
     <td> <!-- Week 5 - Thursday Morning 1 -->
-      $http CR (NA)
+      <a href="https://github.com/SF-WDI-LABS/ng-read-create">$http CR</a>
+      (NA)
     </td>
     <td> <!-- Week 5 - Friday Morning 1 -->
       Review
@@ -41,7 +42,8 @@
       <a href="https://github.com/SF-WDI-LABS/angular_directives_lab">Angular Expressions & Built-In Directives</a> (MF)
     </td>
     <td> <!-- Week 5 - Thursday Morning 2 -->
-      $http CR (NA)
+      <a href="https://github.com/SF-WDI-LABS/ng-read-create">$http CR</a>
+      (NA)
     </td>
     <td> <!-- Week 5 - Friday Morning 2 -->
       Client-side Routing (NA)
