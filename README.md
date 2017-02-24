@@ -62,7 +62,7 @@
     Sherri's Prerogative <a href="https://github.com/sf-wdi-35/ng-hangman">(Hangman lab)</a>
     </td>
     <td> <!-- Week 5 - Thursday Afternoon 1 -->
-      $http UD (MF)
+      <a href="https://github.com/SF-WDI-LABS/ng-update-delete">$http UD</a> (MF)
     </td>
     <td> <!-- Week 5 - Friday Afternoon 1 / Weekend Lab -->
       Tunely 4+5 (Team)
