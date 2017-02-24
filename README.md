@@ -83,7 +83,7 @@
       $http UD (MF)
     </td>
     <td> <!-- Week 5 - Friday Afternoon 2 / Weekend Lab -->
-      Tunely 4+5, and intro Angular Book App
+      Intro <a href="https://github.com/sf-wdi-35/angular-books-crud-lab">Angular Book App</a>
     </td>
   </tr>
   <tr>
@@ -101,7 +101,7 @@
       Finish Tunely 2+3
     </td>
     <td> <!-- Week 5 - Friday -->
-      Books App
+      Finish AND SUBMIT <a href="https://github.com/sf-wdi-35/angular-books-crud-lab">Books App</a>
     </td>
   </tr>
 </table>
