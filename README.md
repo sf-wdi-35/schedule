@@ -46,7 +46,8 @@
       (NA)
     </td>
     <td> <!-- Week 5 - Friday Morning 2 -->
-      Client-side Routing (NA)
+      <a href="https://github.com/SF-WDI-LABS/angular-ngRoute">Client-side Routing</a>
+      (NA)
     </td>
   </tr>
   <tr>
