@@ -14,23 +14,23 @@
     <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 6 - Monday Morning 1 -->
       Review of books app & start build
-      (tbd)
+      (MF)
     </td>
     <td> <!-- Week 6 - Tuesday Morning 1 -->
       Ruby Intro
-      (tbd)
+      (NA)
     </td>
     <td> <!-- Week 6 - Wednesday Morning 1 -->
-      OO Ruby & Inheritance
-      (tbd)
+      Algorithm
+      (MF)
     </td>
     <td> <!-- Week 6 - Thursday Morning 1 -->
       Binary Search
-      (tbd)
+      (MF)
     </td>
     <td> <!-- Week 6 - Friday Morning 1 -->
       Sort
-      (team)
+      (MF)
     </td>
   </tr>
   <tr>
@@ -41,15 +41,15 @@
     </td>
     <td> <!-- Week 6 - Tuesday Morning 2 -->
       Idiomatic Ruby
-      (tbd)
+      (NA)
     </td>
     <td> <!-- Week 6 - Wednesday Morning 2 -->
-      Algorithm
-      (tbd)
+      OO Ruby & Inheritance
+      (NA)
     </td>
     <td> <!-- Week 6 - Thursday Morning 2 -->
       Rspec
-      (tbd)
+      (MF)
     </td>
     <td> <!-- Week 6 - Friday Morning 2 -->
       Review
@@ -64,19 +64,18 @@
     </td>
     <td> <!-- Week 6 - Tuesday Afternoon 1 -->
       Username generator
-      (tbd)
+      (MF)
     </td>
     <td> <!-- Week 6 - Wednesday Afternoon 1 -->
       Sherri's Perrogative
-      (tbd)
     </td>
     <td> <!-- Week 6 - Thursday Afternoon 1 -->
       Go Fish
-      (tbd)
+      (MF)
     </td>
     <td> <!-- Week 6 - Friday Afternoon 1 / Weekend Lab -->
       Weekend Lab
-      (tbd)
+      (NA)
     </td>
   </tr>
   <tr>
@@ -87,7 +86,7 @@
     </td>
     <td> <!-- Week 6 - Tuesday Afternoon 2 -->
       Username generator
-      (tbd)
+      (MF)
     </td>
     <td> <!-- Week 6 - Wednesday Afternoon 2 -->
       Outcomes
@@ -95,30 +94,26 @@
     </td>
     <td> <!-- Week 6 - Thursday Afternoon 2 -->
       Go Fish
-      (tbd)
+      (MF)
     </td>
     <td> <!-- Week 6 - Friday Afternoon 2 / Weekend Lab -->
       Weekend Lab
-      (tbd)
+      (NA)
     </td>
   </tr>
   <tr>
     <td><strong>HW</strong></td>
     <td> <!-- Week 6 - Monday Homework -->
       Ruby Health Check
-      (tbd)
     </td>
     <td> <!-- Week 6 - Tuesday Homework -->
       Begin Method Drills
-      (tbd)
     </td>
     <td> <!-- Week 6 - Wednesday Homework -->
       Wheel of Fortune
-      (tbd)
     </td>
     <td> <!-- Week 6 - Thursday Homework -->
       Go Fish
-      (tbd)
     </td>
     <td> <!-- Week 6 - Friday -->
       <!-- BLANK -->
