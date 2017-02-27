@@ -36,8 +36,8 @@
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 6 - Monday Morning 2 -->
-      Angular Build Day
-      (tbd)
+      <a href="https://github.com/sf-wdi-35/angular-build-day">Angular Build Day</a>
+      (team)
     </td>
     <td> <!-- Week 6 - Tuesday Morning 2 -->
       Idiomatic Ruby
@@ -59,8 +59,8 @@
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 6 - Monday Afternoon 1 -->
-      Angular Build Day
-      (tbd)
+      <a href="https://github.com/sf-wdi-35/angular-build-day">Angular Build Day</a>
+      (team)
     </td>
     <td> <!-- Week 6 - Tuesday Afternoon 1 -->
       Username generator
@@ -82,8 +82,8 @@
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 6 - Monday Afternoon 2 -->
-      Angular Build Day
-      (tbd)
+      <a href="https://github.com/sf-wdi-35/angular-build-day">Angular Build Day</a>
+      (team)
     </td>
     <td> <!-- Week 6 - Tuesday Afternoon 2 -->
       Username generator
@@ -91,11 +91,11 @@
     </td>
     <td> <!-- Week 6 - Wednesday Afternoon 2 -->
       Outcomes
-      (tbd)
+      (Neda)
     </td>
     <td> <!-- Week 6 - Thursday Afternoon 2 -->
       Go Fish
-      (Neda)
+      (tbd)
     </td>
     <td> <!-- Week 6 - Friday Afternoon 2 / Weekend Lab -->
       Weekend Lab
