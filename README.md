@@ -63,7 +63,7 @@
       (team)
     </td>
     <td> <!-- Week 6 - Tuesday Afternoon 1 -->
-      Username generator
+      <a href="https://github.com/SF-WDI-LABS/functions-exercises#function-definitions">Practice with methods</a> and <a href="https://github.com/SF-WDI-LABS/username-generator">Username generator</a>
       (MF)
     </td>
     <td> <!-- Week 6 - Wednesday Afternoon 1 -->
