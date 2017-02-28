@@ -17,7 +17,7 @@
       (MF)
     </td>
     <td> <!-- Week 6 - Tuesday Morning 1 -->
-      Ruby Intro
+      <a href="https://github.com/SF-WDI-LABS/intro-ruby">Ruby Intro</a>
       (NA)
     </td>
     <td> <!-- Week 6 - Wednesday Morning 1 -->
@@ -104,7 +104,7 @@
   <tr>
     <td><strong>HW</strong></td>
     <td> <!-- Week 6 - Monday Homework -->
-      Ruby Health Check
+      <a href="https://docs.google.com/spreadsheets/d/1eu4_B9iu1TBRsAgYUdpvb3Y949E8stqSo62SMnBPws8/edit#gid=1840956084">Ruby Health Check</a>
     </td>
     <td> <!-- Week 6 - Tuesday Homework -->
       Begin Method Drills
