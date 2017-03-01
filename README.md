@@ -44,7 +44,8 @@
       (NA)
     </td>
     <td> <!-- Week 6 - Wednesday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/ruby-monster-oop">OO Ruby & Inheritance Lab</a>
+      <a href="https://github.com/SF-WDI-LABS/ruby-oop">OO Ruby</a> &amp;
+      <a href="https://github.com/SF-WDI-LABS/ruby-monster-oop">Inheritance Lab</a>
       (NA)
     </td>
     <td> <!-- Week 6 - Thursday Morning 2 -->
