@@ -107,7 +107,7 @@
       <a href="https://docs.google.com/spreadsheets/d/1eu4_B9iu1TBRsAgYUdpvb3Y949E8stqSo62SMnBPws8/edit#gid=1840956084">Ruby Health Check</a>
     </td>
     <td> <!-- Week 6 - Tuesday Homework -->
-      Begin <a href="https://github.com/sf-wdi-35/ruby-method-drills">Method Drills</a>
+      Begin <a href="https://github.com/sf-wdi-35/ruby-method-drills">Method Drills</a>. You will TURN THIS IN later this week; please get through at least `arguments.rb` tonight.
     </td>
     <td> <!-- Week 6 - Wednesday Homework -->
       Wheel of Fortune
