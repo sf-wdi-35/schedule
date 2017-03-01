@@ -68,7 +68,7 @@
       (MF)
     </td>
     <td> <!-- Week 6 - Wednesday Afternoon 1 -->
-      Sherri's Perrogative
+      Sherri's Perrogative - OOP(team work) & <a href="https://github.com/SF-WDI-LABS/wheel_of_fortune">Wheel of fortune </a>
     </td>
     <td> <!-- Week 6 - Thursday Afternoon 1 -->
       Go Fish
