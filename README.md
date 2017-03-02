@@ -71,7 +71,7 @@
       Sherri's Perrogative - OOP(team work) & <a href="https://github.com/SF-WDI-LABS/wheel_of_fortune">Wheel of fortune </a>
     </td>
     <td> <!-- Week 6 - Thursday Afternoon 1 -->
-      Go Fish
+      <a href="https://github.com/SF-WDI-LABS/go-fish-card-game">Go Fish</a>
       (MF)
     </td>
     <td> <!-- Week 6 - Friday Afternoon 1 / Weekend Lab -->
@@ -94,7 +94,7 @@
       (Neda)
     </td>
     <td> <!-- Week 6 - Thursday Afternoon 2 -->
-      Go Fish
+      <a href="https://github.com/SF-WDI-LABS/go-fish-card-game">Go Fish</a>
       (MF)
     </td>
     <td> <!-- Week 6 - Friday Afternoon 2 / Weekend Lab -->
