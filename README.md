@@ -49,7 +49,7 @@
       (NA)
     </td>
     <td> <!-- Week 6 - Thursday Morning 2 -->
-      Rspec
+      <a href="https://github.com/SF-WDI-LABS/rspec">Rspec</a>
       (MF)
     </td>
     <td> <!-- Week 6 - Friday Morning 2 -->
