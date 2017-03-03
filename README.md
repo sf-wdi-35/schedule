@@ -75,7 +75,7 @@
       (MF)
     </td>
     <td> <!-- Week 6 - Friday Afternoon 1 / Weekend Lab -->
-      Weekend Lab
+      <a href="https://github.com/SF-WDI-LABS/build-your-own-ruby-gem">Build Your Own Gem</a>
       (NA)
     </td>
   </tr>
@@ -98,7 +98,7 @@
       (MF)
     </td>
     <td> <!-- Week 6 - Friday Afternoon 2 / Weekend Lab -->
-      Weekend Lab
+      <a href="https://github.com/SF-WDI-LABS/build-your-own-ruby-gem">Build Your Own Gem</a>
       (NA)
     </td>
   </tr>
