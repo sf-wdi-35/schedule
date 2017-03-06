@@ -81,7 +81,7 @@
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 6 - Monday Afternoon 2 -->
-      Rock'n Rails
+      <a href="https://github.com/SF-WDI-LABS/rock-n-rails">Rock'n Rails</a>
       (NA)
     </td>
     <td> <!-- Week 6 - Tuesday Afternoon 2 -->
