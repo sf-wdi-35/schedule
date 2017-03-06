@@ -1,5 +1,126 @@
 # WDI-35 Schedule
 
+## Week 7  - Rails on Ruby
+<table>
+  <tr>
+    <td>Mar 6 - 10</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 6 - Monday Morning 1 -->
+      SQL
+      (MF)
+    </td>
+    <td> <!-- Week 6 - Tuesday Morning 1 -->
+      Views & Helpers
+      (MF)
+    </td>
+    <td> <!-- Week 6 - Wednesday Morning 1 -->
+      Associations
+      (MF)
+    </td>
+    <td> <!-- Week 6 - Thursday Morning 1 -->
+      Errors & Validations
+      (NA)
+    </td>
+    <td> <!-- Week 6 - Friday Morning 1 -->
+      Review
+      (MF)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 6 - Monday Morning 2 -->
+      Active Record
+      (MF)
+    </td>
+    <td> <!-- Week 6 - Tuesday Morning 2 -->
+      Views & Helpers
+      (MF)
+    </td>
+    <td> <!-- Week 6 - Wednesday Morning 2 -->
+      Pet lab
+      (MF)
+    </td>
+    <td> <!-- Week 6 - Thursday Morning 2 -->
+      Cookies & Sessions
+      (NA)
+    </td>
+    <td> <!-- Week 6 - Friday Morning 2 -->
+      Review
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 6 - Monday Afternoon 1 -->
+      Intro Rails
+      (NA)
+    </td>
+    <td> <!-- Week 6 - Tuesday Afternoon 1 -->
+      Migrations
+      (NA)
+    </td>
+    <td> <!-- Week 6 - Wednesday Afternoon 1 -->
+      Sherri's Perrogative
+    </td>
+    <td> <!-- Week 6 - Thursday Afternoon 1 -->
+      Auth
+      (MF)
+    </td>
+    <td> <!-- Week 6 - Friday Afternoon 1 / Weekend Lab -->
+      Library app
+      (NA)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 6 - Monday Afternoon 2 -->
+      Rock'n Rails
+      (NA)
+    </td>
+    <td> <!-- Week 6 - Tuesday Afternoon 2 -->
+      Migrations
+      (NA)
+    </td>
+    <td> <!-- Week 6 - Wednesday Afternoon 2 -->
+      Outcomes
+      (Neda)
+    </td>
+    <td> <!-- Week 6 - Thursday Afternoon 2 -->
+      Auth
+      (MF)
+    </td>
+    <td> <!-- Week 6 - Friday Afternoon 2 / Weekend Lab -->
+      Library app
+      (NA)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HW</strong></td>
+    <td> <!-- Week 6 - Monday Homework -->
+      Rock'n Rails
+    </td>
+    <td> <!-- Week 6 - Tuesday Homework -->
+      Migrations
+    </td>
+    <td> <!-- Week 6 - Wednesday Homework -->
+      Pet Lab
+    </td>
+    <td> <!-- Week 6 - Thursday Homework -->
+      Auth
+    </td>
+    <td> <!-- Week 6 - Friday -->
+      <!-- BLANK -->
+    </td>
+  </tr>
+</table>
+
 ## Week 6  - OO Ruby
 <table>
   <tr>
