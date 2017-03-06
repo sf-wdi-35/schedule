@@ -36,7 +36,7 @@
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 6 - Monday Morning 2 -->
-      Active Record
+      <a href="https://github.com/SF-WDI-LABS/active-record">Active Record</a>
       (MF)
     </td>
     <td> <!-- Week 6 - Tuesday Morning 2 -->
