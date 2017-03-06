@@ -13,7 +13,7 @@
   <tr>
     <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 6 - Monday Morning 1 -->
-      SQL
+      <a href="https://github.com/SF-WDI-LABS/intro-sql">SQL Intro</a> and <a href="https://github.com/SF-WDI-LABS/sql-carmen-sandiego">Lab</a>
       (MF)
     </td>
     <td> <!-- Week 6 - Tuesday Morning 1 -->
