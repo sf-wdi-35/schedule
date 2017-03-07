@@ -17,7 +17,7 @@
       (MF)
     </td>
     <td> <!-- Week 6 - Tuesday Morning 1 -->
-      <a href="https://github.com/SF-WDI-LABS/rails-views-and-helpers">Views & Helpers</a>
+      <a href="https://github.com/SF-WDI-LABS/rails-views-and-helpers">Views & Helpers</a> with a <a href="https://github.com/SF-WDI-LABS/view_helpers_demo_app">Demo App</a>
       (MF)
     </td>
     <td> <!-- Week 6 - Wednesday Morning 1 -->
