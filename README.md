@@ -17,7 +17,7 @@
       (MF)
     </td>
     <td> <!-- Week 6 - Tuesday Morning 1 -->
-      Views & Helpers
+      <a href="https://github.com/SF-WDI-LABS/rails-views-and-helpers">Views & Helpers</a>
       (MF)
     </td>
     <td> <!-- Week 6 - Wednesday Morning 1 -->
@@ -40,7 +40,7 @@
       (MF)
     </td>
     <td> <!-- Week 6 - Tuesday Morning 2 -->
-      Views & Helpers
+      <a href="https://github.com/SF-WDI-LABS/rails-views-partials-helpers-lab">Views & Helpers Lab</a>
       (MF)
     </td>
     <td> <!-- Week 6 - Wednesday Morning 2 -->
