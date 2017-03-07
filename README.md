@@ -85,7 +85,7 @@
       (NA)
     </td>
     <td> <!-- Week 6 - Tuesday Afternoon 2 -->
-      Migrations
+      <a href="https://github.com/SF-WDI-LABS/migrations">Migrations Practice</a>
       (NA)
     </td>
     <td> <!-- Week 6 - Wednesday Afternoon 2 -->
