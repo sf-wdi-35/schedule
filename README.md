@@ -68,6 +68,7 @@
     </td>
     <td> <!-- Week 6 - Wednesday Afternoon 1 -->
       Sherri's Prerogative
+      <a href="https://github.com/sf-wdi-35/ControlRoom-On-Rails" > ControlRoom on Rails </a>
     </td>
     <td> <!-- Week 6 - Thursday Afternoon 1 -->
       Auth
