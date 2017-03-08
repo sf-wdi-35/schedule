@@ -21,7 +21,7 @@
       (MF)
     </td>
     <td> <!-- Week 6 - Wednesday Morning 1 -->
-      Associations
+      <a href="https://github.com/SF-WDI-LABS/rails-associations">Associations</a>
       (MF)
     </td>
     <td> <!-- Week 6 - Thursday Morning 1 -->
@@ -67,7 +67,7 @@
       (NA)
     </td>
     <td> <!-- Week 6 - Wednesday Afternoon 1 -->
-      Sherri's Perrogative
+      Sherri's Prerogative
     </td>
     <td> <!-- Week 6 - Thursday Afternoon 1 -->
       Auth
