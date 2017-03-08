@@ -44,7 +44,7 @@
       (MF)
     </td>
     <td> <!-- Week 6 - Wednesday Morning 2 -->
-      Pet lab
+      <a href="https://github.com/SF-WDI-LABS/pet-lab">Pet lab</a>
       (MF)
     </td>
     <td> <!-- Week 6 - Thursday Morning 2 -->
