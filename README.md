@@ -25,12 +25,12 @@
       (MF)
     </td>
     <td> <!-- Week 6 - Thursday Morning 1 -->
-      Errors & Validations
-      (NA)
+      Time Trials
+      (Team)
     </td>
     <td> <!-- Week 6 - Friday Morning 1 -->
-      Review
-      (MF)
+      Cookies & Sessions Review
+      (NA)
     </td>
   </tr>
   <tr>
@@ -48,12 +48,12 @@
       (MF)
     </td>
     <td> <!-- Week 6 - Thursday Morning 2 -->
-      Cookies & Sessions
-      (NA)
+      Time Trials
+      (Team)
     </td>
     <td> <!-- Week 6 - Friday Morning 2 -->
-      Review
-      (team)
+      Auth
+      (MF)
     </td>
   </tr>
   <tr>
@@ -71,7 +71,7 @@
       <a href="https://github.com/sf-wdi-35/ControlRoom-On-Rails" > ControlRoom on Rails </a>
     </td>
     <td> <!-- Week 6 - Thursday Afternoon 1 -->
-      Auth
+      Time Trials
       (MF)
     </td>
     <td> <!-- Week 6 - Friday Afternoon 1 / Weekend Lab -->
@@ -94,8 +94,8 @@
       (Neda)
     </td>
     <td> <!-- Week 6 - Thursday Afternoon 2 -->
-      Auth
-      (MF)
+      Errors & Validations
+      (NA)
     </td>
     <td> <!-- Week 6 - Friday Afternoon 2 / Weekend Lab -->
       Library app
@@ -114,7 +114,7 @@
       Pet Lab
     </td>
     <td> <!-- Week 6 - Thursday Homework -->
-      Auth
+      Cookie Monster
     </td>
     <td> <!-- Week 6 - Friday -->
       <!-- BLANK -->
