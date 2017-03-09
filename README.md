@@ -29,7 +29,7 @@
       (Team)
     </td>
     <td> <!-- Week 6 - Friday Morning 1 -->
-      Cookies & Sessions Review
+      Cookies & Sessions & Flash Message Review
       (NA)
     </td>
   </tr>
@@ -71,7 +71,7 @@
       <a href="https://github.com/sf-wdi-35/ControlRoom-On-Rails" > ControlRoom on Rails </a>
     </td>
     <td> <!-- Week 6 - Thursday Afternoon 1 -->
-      Time Trials
+      <a href="https://github.com/SF-WDI-LABS/cookies-sessions">Cookies & Sessions</a>
       (MF)
     </td>
     <td> <!-- Week 6 - Friday Afternoon 1 / Weekend Lab -->
@@ -94,7 +94,7 @@
       (Neda)
     </td>
     <td> <!-- Week 6 - Thursday Afternoon 2 -->
-      Errors & Validations
+      <a href="https://github.com/SF-WDI-LABS/cookie-monster-app">Cookies Lab
       (NA)
     </td>
     <td> <!-- Week 6 - Friday Afternoon 2 / Weekend Lab -->
@@ -114,7 +114,7 @@
       Pet Lab
     </td>
     <td> <!-- Week 6 - Thursday Homework -->
-      Cookie Monster
+      <a href="https://github.com/SF-WDI-LABS/rails-validations-errors">Flash Errors</a>
     </td>
     <td> <!-- Week 6 - Friday -->
       <!-- BLANK -->
