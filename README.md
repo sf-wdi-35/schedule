@@ -72,7 +72,7 @@
     </td>
     <td> <!-- Week 6 - Thursday Afternoon 1 -->
       <a href="https://github.com/SF-WDI-LABS/cookies-sessions">Cookies & Sessions</a>
-      (MF)
+      (NA)
     </td>
     <td> <!-- Week 6 - Friday Afternoon 1 / Weekend Lab -->
       Library app
@@ -94,7 +94,7 @@
       (Neda)
     </td>
     <td> <!-- Week 6 - Thursday Afternoon 2 -->
-      <a href="https://github.com/SF-WDI-LABS/cookie-monster-app">Cookies Lab
+      <a href="https://github.com/SF-WDI-LABS/cookie-monster-app">Cookies Lab</a>
       (NA)
     </td>
     <td> <!-- Week 6 - Friday Afternoon 2 / Weekend Lab -->
