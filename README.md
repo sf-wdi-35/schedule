@@ -25,7 +25,7 @@
       (MF)
     </td>
     <td> <!-- Week 6 - Thursday Morning 1 -->
-      Time Trials
+      <a href="https://github.com/SF-WDI-LABS/rails_bog_app">Time Trials</a>
       (Team)
     </td>
     <td> <!-- Week 6 - Friday Morning 1 -->
@@ -48,7 +48,7 @@
       (MF)
     </td>
     <td> <!-- Week 6 - Thursday Morning 2 -->
-      Time Trials
+      <a href="https://github.com/SF-WDI-LABS/rails_bog_app">Time Trials</a>
       (Team)
     </td>
     <td> <!-- Week 6 - Friday Morning 2 -->
