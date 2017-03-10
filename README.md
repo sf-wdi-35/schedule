@@ -75,7 +75,7 @@
       (NA)
     </td>
     <td> <!-- Week 6 - Friday Afternoon 1 / Weekend Lab -->
-      Library app
+      <a href="https://github.com/SF-WDI-LABS/public-library-app">Library app</a>
       (NA)
     </td>
   </tr>
@@ -98,7 +98,7 @@
       (NA)
     </td>
     <td> <!-- Week 6 - Friday Afternoon 2 / Weekend Lab -->
-      Library app
+      <a href="https://github.com/SF-WDI-LABS/public-library-app">Library app</a>
       (NA)
     </td>
   </tr>
@@ -117,7 +117,7 @@
       <a href="https://github.com/SF-WDI-LABS/rails-validations-errors">Flash Errors</a>
     </td>
     <td> <!-- Week 6 - Friday -->
-      <!-- BLANK -->
+      Finish AND SUBMIT <a href="https://github.com/SF-WDI-LABS/public-library-app">Library app</a>
     </td>
   </tr>
 </table>
