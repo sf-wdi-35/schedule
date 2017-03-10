@@ -52,7 +52,7 @@
       (Team)
     </td>
     <td> <!-- Week 6 - Friday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/rails-auth">Auth</a>
+      <a href="https://github.com/SF-WDI-LABS/rails-auth">Auth</a> and <a href="https://github.com/SF-WDI-LABS/rails-auth-lab">Auth Lab/Walkthrough</a>
       (MF)
     </td>
   </tr>
