@@ -52,7 +52,7 @@
       (Team)
     </td>
     <td> <!-- Week 6 - Friday Morning 2 -->
-      Auth
+      <a href="https://github.com/SF-WDI-LABS/rails-auth">Auth</a>
       (MF)
     </td>
   </tr>
