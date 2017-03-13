@@ -59,7 +59,7 @@
       (MF)
     </td>
     <td> <!-- Week 8 - Tuesday Afternoon 1 -->
-      Vagabond
+      <a href="https://github.com/sf-wdi-35/project-vagabond">Intro Vagabond</a>
     </td>
     <td> <!-- Week 8 - Wednesday Afternoon 1 -->
       Vagabond
