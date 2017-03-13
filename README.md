@@ -1,5 +1,119 @@
 # WDI-35 Schedule
 
+## Week 8: Vagabond
+<table>
+  <tr>
+    <td>Mar 13-17</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 8 - Monday Morning 1 -->
+      Library App & OOP Review
+      (NA)
+    </td>
+    <td> <!-- Week 8 - Tuesday Morning 1 -->
+      Algorithms
+      (NA)
+    </td>
+    <td> <!-- Week 8 - Wednesday Morning 1 -->
+      Algorithms
+      (MF)
+    </td>
+    <td> <!-- Week 8 - Thursday Morning 1 -->
+      Algorithms
+      (MF)
+    </td>
+    <td> <!-- Week 8 - Friday Morning 1 -->
+      Algorithms
+      (MF)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 8 - Monday Morning 2 -->
+      Library App refactoring
+      (NA)
+    </td>
+    <td> <!-- Week 8 - Tuesday Morning 2 -->
+      Vagabond
+    </td>
+    <td> <!-- Week 8 - Wednesday Morning 2 -->
+      Vagabond
+    </td>
+    <td> <!-- Week 8 - Thursday Morning 2 -->
+      Finish Vagabond & Prepare Presentations
+    </td>
+    <td> <!-- Week 8 - Friday Morning 2 -->
+      Compilers (NA)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 8 - Monday Afternoon 1 -->
+      Algorithms
+      (MF)
+    </td>
+    <td> <!-- Week 8 - Tuesday Afternoon 1 -->
+      Vagabond
+    </td>
+    <td> <!-- Week 8 - Wednesday Afternoon 1 -->
+      Vagabond
+    </td>
+    <td> <!-- Week 8 - Thursday Afternoon 1 -->
+      UXDI Collaboration & Vagabond Presentations
+    </td>
+    <td> <!-- Week 8 - Friday Afternoon 1 / Weekend Lab -->
+      Non-Representational Databases
+      (MF)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 8 - Monday Afternoon 2 -->
+      Intro Vagabond
+    </td>
+    <td> <!-- Week 8 - Tuesday Afternoon 2 -->
+      Vagabond
+    </td>
+    <td> <!-- Week 8 - Wednesday Afternoon 2 -->
+      Outcomes
+      (Neda)
+    </td>
+    <td> <!-- Week 8 - Thursday Afternoon 2 -->
+      Vagabond Presentations & Self-Printing Programs
+      (MF)
+    </td>
+    <td> <!-- Week 8 - Friday Afternoon 2 / Weekend Lab -->
+      Quantum Big-O Notation
+      (NA)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HW</strong></td>
+    <td> <!-- Week 8 - Monday Homework -->
+      Vagabond
+    </td>
+    <td> <!-- Week 8 - Tuesday Homework -->
+      Vagabond
+    </td>
+    <td> <!-- Week 8 - Wednesday Homework -->
+      Finish Vagabond
+    </td>
+    <td> <!-- Week 8 - Thursday Homework -->
+      Self-Printing Program
+    </td>
+    <td> <!-- Week 8 - Friday -->
+      Quantum Big-O Lab
+    </td>
+  </tr>
+</table>
+
+
 ## Week 7  - Rails on Ruby
 <table>
   <tr>
