@@ -99,7 +99,7 @@
   <tr>
     <td><strong>HW</strong></td>
     <td> <!-- Week 9 - Monday Homework -->
-      Get a working code demo for your lightning talk.
+      Get a working code demo & prepare your lightning talk.
     </td>
     <td> <!-- Week 9 - Tuesday Homework -->
       P2 Approval-ready
