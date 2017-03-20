@@ -78,7 +78,7 @@
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 9 - Monday Afternoon 2 -->
-      Intro to Lightning Talks
+      <a href="https://github.com/SF-WDI-LABS/ruby-lightning-talks">Intro to Lightning Talks</a>
       (MF)
     </td>
     <td> <!-- Week 9 - Tuesday Afternoon 2 -->
