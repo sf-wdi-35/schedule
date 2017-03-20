@@ -12,26 +12,26 @@
     <th>Friday</th>
   </tr>
   <tr>
-    <td><strong>9:00-10:20</strong></td>
+    <td><strong>9:17-10:20</strong></td>
     <td> <!-- Week 9 - Monday Morning 1 -->
       Code Review
       (NA)
     </td>
     <td> <!-- Week 9 - Tuesday Morning 1 -->
-      Drill
-      (tbd)
+      Algorithms
+      (MF)
     </td>
     <td> <!-- Week 9 - Wednesday Morning 1 -->
-      Drill
-      (tbd)
+      Project 2 Approvals
+      (team)
     </td>
     <td> <!-- Week 9 - Thursday Morning 1 -->
-      Drill
-      (tbd)
+      Algorithms
+      (MF)
     </td>
     <td> <!-- Week 9 - Friday Morning 1 -->
-      Review
-      (team)
+      Algorithms
+      (MF)
     </td>
   </tr>
   <tr>
@@ -41,20 +41,18 @@
       (NA)
     </td>
     <td> <!-- Week 9 - Tuesday Morning 2 -->
-      Topic
-      (tbd)
+      Present lightning talks
+      (MF)
     </td>
     <td> <!-- Week 9 - Wednesday Morning 2 -->
-      Topic
-      (tbd)
+      Project 2 Approvals
+      (team)
     </td>
     <td> <!-- Week 9 - Thursday Morning 2 -->
-      Topic
-      (tbd)
+      P2
     </td>
     <td> <!-- Week 9 - Friday Morning 2 -->
-      Review
-      (team)
+      P2
     </td>
   </tr>
   <tr>
@@ -64,20 +62,17 @@
       (NA)
     </td>
     <td> <!-- Week 9 - Tuesday Afternoon 1 -->
-      Topic
-      (tbd)
+      Turbolinks
+      (MF)
     </td>
     <td> <!-- Week 9 - Wednesday Afternoon 1 -->
-      Topic
-      (tbd)
+      P2
     </td>
     <td> <!-- Week 9 - Thursday Afternoon 1 -->
-      Topic
-      (tbd)
+      P2
     </td>
     <td> <!-- Week 9 - Friday Afternoon 1 / Weekend Lab -->
-      Weekend Lab
-      (tbd)
+      P2
     </td>
   </tr>
   <tr>
@@ -87,42 +82,36 @@
       (MF)
     </td>
     <td> <!-- Week 9 - Tuesday Afternoon 2 -->
-      Topic
-      (tbd)
+      Intro to Project 2
+      (NA)
     </td>
     <td> <!-- Week 9 - Wednesday Afternoon 2 -->
-      Topic
-      (tbd)
-    </td>
-    <td> <!-- Week 9 - Thursday Afternoon 2 -->
       Outcomes
       (Neda)
     </td>
+    <td> <!-- Week 9 - Thursday Afternoon 2 -->
+      P2
+    </td>
     <td> <!-- Week 9 - Friday Afternoon 2 / Weekend Lab -->
-      Weekend Lab
-      (tbd)
+      P2
     </td>
   </tr>
   <tr>
     <td><strong>HW</strong></td>
     <td> <!-- Week 9 - Monday Homework -->
-      Reading
-      (tbd)
+      Get a working code demo for your lightning talk.
     </td>
     <td> <!-- Week 9 - Tuesday Homework -->
-      Reading
-      (tbd)
+      P2 Approval-ready
     </td>
     <td> <!-- Week 9 - Wednesday Homework -->
-      Reading
-      (tbd)
+      P2
     </td>
     <td> <!-- Week 9 - Thursday Homework -->
-      Reading
-      (tbd)
+      P2
     </td>
     <td> <!-- Week 9 - Friday -->
-      <!-- BLANK -->
+      P2
     </td>
   </tr>
 </table>
