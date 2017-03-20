@@ -58,7 +58,7 @@
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 9 - Monday Afternoon 1 -->
-      Asset Pipeline
+      <a href="https://github.com/SF-WDI-LABS/asset-pipeline-poem">Asset Pipeline</a>
       (NA)
     </td>
     <td> <!-- Week 9 - Tuesday Afternoon 1 -->
