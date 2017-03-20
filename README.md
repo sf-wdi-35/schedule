@@ -1,5 +1,133 @@
 # WDI-35 Schedule
 
+
+## Week 9: Doubling Down On Rails
+<table>
+  <tr>
+    <td>Mar 20-24</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 9 - Monday Morning 1 -->
+      Code Review
+      (NA)
+    </td>
+    <td> <!-- Week 9 - Tuesday Morning 1 -->
+      Drill
+      (tbd)
+    </td>
+    <td> <!-- Week 9 - Wednesday Morning 1 -->
+      Drill
+      (tbd)
+    </td>
+    <td> <!-- Week 9 - Thursday Morning 1 -->
+      Drill
+      (tbd)
+    </td>
+    <td> <!-- Week 9 - Friday Morning 1 -->
+      Review
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 9 - Monday Morning 2 -->
+      <a href="https://github.com/SF-WDI-LABS/rails-code-review">Code Review</a>
+      (NA)
+    </td>
+    <td> <!-- Week 9 - Tuesday Morning 2 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 9 - Wednesday Morning 2 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 9 - Thursday Morning 2 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 9 - Friday Morning 2 -->
+      Review
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 9 - Monday Afternoon 1 -->
+      Asset Pipeline
+      (NA)
+    </td>
+    <td> <!-- Week 9 - Tuesday Afternoon 1 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 9 - Wednesday Afternoon 1 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 9 - Thursday Afternoon 1 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 9 - Friday Afternoon 1 / Weekend Lab -->
+      Weekend Lab
+      (tbd)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 9 - Monday Afternoon 2 -->
+      Intro to Lightning Talks
+      (MF)
+    </td>
+    <td> <!-- Week 9 - Tuesday Afternoon 2 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 9 - Wednesday Afternoon 2 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 9 - Thursday Afternoon 2 -->
+      Outcomes
+      (Neda)
+    </td>
+    <td> <!-- Week 9 - Friday Afternoon 2 / Weekend Lab -->
+      Weekend Lab
+      (tbd)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HW</strong></td>
+    <td> <!-- Week 9 - Monday Homework -->
+      Reading
+      (tbd)
+    </td>
+    <td> <!-- Week 9 - Tuesday Homework -->
+      Reading
+      (tbd)
+    </td>
+    <td> <!-- Week 9 - Wednesday Homework -->
+      Reading
+      (tbd)
+    </td>
+    <td> <!-- Week 9 - Thursday Homework -->
+      Reading
+      (tbd)
+    </td>
+    <td> <!-- Week 9 - Friday -->
+      <!-- BLANK -->
+    </td>
+  </tr>
+</table>
+
+
 ## Week 8: Vagabond
 <table>
   <tr>
