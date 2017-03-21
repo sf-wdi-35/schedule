@@ -62,7 +62,9 @@
       (NA)
     </td>
     <td> <!-- Week 9 - Tuesday Afternoon 1 -->
-      Turbolinks
+      <a href="https://github.com/SF-WDI-LABS/turbolinks_challenge">
+        Turbolinks
+      </a>
       (MF)
     </td>
     <td> <!-- Week 9 - Wednesday Afternoon 1 -->
