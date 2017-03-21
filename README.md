@@ -84,7 +84,7 @@
       (MF)
     </td>
     <td> <!-- Week 9 - Tuesday Afternoon 2 -->
-      Intro to Project 2
+      <a href="https://github.com/sf-wdi-35/project-02">Intro to Project 2</a>
       (NA)
     </td>
     <td> <!-- Week 9 - Wednesday Afternoon 2 -->
