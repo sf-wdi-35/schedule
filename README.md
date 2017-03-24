@@ -113,7 +113,7 @@
       P2
     </td>
     <td> <!-- Week 9 - Friday -->
-      P2. Optionally, you can also look at <a href="https://github.com/SF-WDI-LABS/recursion-drills">these recursion drills.</a>
+      P2. Optionally, you can also look at <a href="https://github.com/SF-WDI-LABS/recursion-drills">these recursion drills</a>.
     </td>
   </tr>
 </table>
