@@ -40,7 +40,7 @@
       P2
     </td>
     <td> <!-- Week 10 - Thursday Morning 2 -->
-      Rails API Lab & P2 Review
+      <a href="https://github.com/sf-wdi-34/rails-5-api">Rails API Lab</a> & P2 Review
     </td>
     <td> <!-- Week 10 - Friday Morning 2 -->
       Review
@@ -59,7 +59,7 @@
       P2 Presentations
     </td>
     <td> <!-- Week 10 - Thursday Afternoon 1 -->
-      Rails API Lab & P2 Review
+      <a href="https://github.com/sf-wdi-34/rails-5-api">Rails API Lab</a> & P2 Review
     </td>
     <td> <!-- Week 10 - Friday Afternoon 1 / Weekend Lab -->
       Weekend Lab
@@ -78,7 +78,7 @@
       Outcomes (Katie)
     </td>
     <td> <!-- Week 10 - Thursday Afternoon 2 -->
-      Rails API Lab & P2 Review
+      <a href="https://github.com/sf-wdi-34/rails-5-api">Rails API Lab</a> & P2 Review
     </td>
     <td> <!-- Week 10 - Friday Afternoon 2 / Weekend Lab -->
       Weekend Lab
