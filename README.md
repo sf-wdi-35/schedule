@@ -25,7 +25,7 @@
       <a href="https://github.com/sf-wdi-34/rails-5-api">Rails API Lab</a> & P2 Review
     </td>
     <td> <!-- Week 10 - Friday Morning 1 -->
-      Algorithms (MF)
+      <a href="https://github.com/sf-wdi-35/publify-debugging-lab">Debugging Lab</a> (NA)
     </td>
   </tr>
   <tr>
@@ -43,8 +43,7 @@
       <a href="https://github.com/sf-wdi-34/rails-5-api">Rails API Lab</a> & P2 Review
     </td>
     <td> <!-- Week 10 - Friday Morning 2 -->
-      Review
-      (team)
+      <a href="https://github.com/sf-wdi-35/publify-debugging-lab">Debugging Lab</a> (NA)
     </td>
   </tr>
   <tr>
@@ -62,8 +61,7 @@
       <a href="https://github.com/sf-wdi-34/rails-5-api">Rails API Lab</a> & P2 Review
     </td>
     <td> <!-- Week 10 - Friday Afternoon 1 / Weekend Lab -->
-      Weekend Lab
-      (tbd)
+      <a href="https://github.com/sf-wdi-35/publify-debugging-lab">Debugging Lab</a> (NA)
     </td>
   </tr>
   <tr>
@@ -81,8 +79,7 @@
       <a href="https://github.com/sf-wdi-34/rails-5-api">Rails API Lab</a> & P2 Review
     </td>
     <td> <!-- Week 10 - Friday Afternoon 2 / Weekend Lab -->
-      Weekend Lab
-      (tbd)
+      Prototype for P3
     </td>
   </tr>
   <tr>
