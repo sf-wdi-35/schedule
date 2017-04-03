@@ -31,7 +31,7 @@
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 11 - Monday Morning 2 -->
-      Web Scraping
+      <a href="https://github.com/SF-WDI-LABS/web-scraping-with-nokogiri">Web Scraping</a>
       (MF)
     </td>
     <td> <!-- Week 11 - Tuesday Morning 2 -->
