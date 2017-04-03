@@ -69,7 +69,7 @@
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 11 - Monday Afternoon 2 -->
-      Intro React (MF)
+      <a href="https://github.com/SF-WDI-LABS/react-intro-2">Intro React 2</a> and <a href="https://github.com/SF-WDI-LABS/simple-blog-react">React blog app</a> (MF)
     </td>
     <td> <!-- Week 11 - Tuesday Afternoon 2 -->
       React (NA)
