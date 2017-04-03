@@ -1,6 +1,6 @@
 # WDI-35 Schedule
 
-## Week 11  - <!-- TOPIC -->
+## Week 11: Instructor's Choice and P3
 <table>
   <tr>
     <td>Apr 3-7</td>
