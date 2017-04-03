@@ -1,5 +1,110 @@
 # WDI-35 Schedule
 
+## Week 11  - <!-- TOPIC -->
+<table>
+  <tr>
+    <td>Apr 3-7</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 11 - Monday Morning 1 -->
+      Algorithms (MF)
+    </td>
+    <td> <!-- Week 11 - Tuesday Morning 1 -->
+      React (NA)
+    </td>
+    <td> <!-- Week 11 - Wednesday Morning 1 -->
+      Algorithms (MF)
+    </td>
+    <td> <!-- Week 11 - Thursday Morning 1 -->
+      Algorithms (MF)
+    </td>
+    <td> <!-- Week 11 - Friday Morning 1 -->
+      Algorithms (MF)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 11 - Monday Morning 2 -->
+      Web Scraping
+      (MF)
+    </td>
+    <td> <!-- Week 11 - Tuesday Morning 2 -->
+      React
+      (NA)
+    </td>
+    <td> <!-- Week 11 - Wednesday Morning 2 -->
+      P3
+    </td>
+    <td> <!-- Week 11 - Thursday Morning 2 -->
+      P3
+    </td>
+    <td> <!-- Week 11 - Friday Morning 2 -->
+      P3
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 11 - Monday Afternoon 1 -->
+      Intro React (MF)
+    </td>
+    <td> <!-- Week 11 - Tuesday Afternoon 1 -->
+      React (NA)
+    </td>
+    <td> <!-- Week 11 - Wednesday Afternoon 1 -->
+      P3
+    </td>
+    <td> <!-- Week 11 - Thursday Afternoon 1 -->
+      P3
+    </td>
+    <td> <!-- Week 11 - Friday Afternoon 1 / Weekend Lab -->
+      P3
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 11 - Monday Afternoon 2 -->
+      Intro React (MF)
+    </td>
+    <td> <!-- Week 11 - Tuesday Afternoon 2 -->
+      React (NA)
+    </td>
+    <td> <!-- Week 11 - Wednesday Afternoon 2 -->
+      P3
+    </td>
+    <td> <!-- Week 11 - Thursday Afternoon 2 -->
+      P3
+    </td>
+    <td> <!-- Week 11 - Friday Afternoon 2 / Weekend Lab -->
+      P3
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HW</strong></td>
+    <td> <!-- Week 11 - Monday Homework -->
+      Finish React and/or scraping assignments
+    </td>
+    <td> <!-- Week 11 - Tuesday Homework -->
+      Finish react and get excited for P3
+    </td>
+    <td> <!-- Week 11 - Wednesday Homework -->
+      P3
+    </td>
+    <td> <!-- Week 11 - Thursday Homework -->
+      P3
+    </td>
+    <td> <!-- Week 11 - Friday -->
+      P3
+    </td>
+  </tr>
+</table>
+
+
 ## Week 10: Project 2
 <table>
   <tr>
@@ -97,7 +202,7 @@
       Finish Rails API Lab
     </td>
     <td> <!-- Week 10 - Friday -->
-      <!-- BLANK -->
+      Prototype for P3
     </td>
   </tr>
 </table>
