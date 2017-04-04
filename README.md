@@ -16,7 +16,7 @@
       Algorithms (MF)
     </td>
     <td> <!-- Week 11 - Tuesday Morning 1 -->
-      React (NA)
+      Algorithms (MF)
     </td>
     <td> <!-- Week 11 - Wednesday Morning 1 -->
       Algorithms (MF)
@@ -35,7 +35,7 @@
       (MF)
     </td>
     <td> <!-- Week 11 - Tuesday Morning 2 -->
-      React
+      <a href="https://github.com/sf-wdi-35/react-rails-potato-app">React Rails Demo App</a>
       (NA)
     </td>
     <td> <!-- Week 11 - Wednesday Morning 2 -->
