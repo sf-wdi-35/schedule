@@ -39,7 +39,7 @@
       (NA)
     </td>
     <td> <!-- Week 11 - Wednesday Morning 2 -->
-      P3
+      <a href="https://github.com/sf-wdi-35/project-03">P3 Intro</a>
     </td>
     <td> <!-- Week 11 - Thursday Morning 2 -->
       P3
